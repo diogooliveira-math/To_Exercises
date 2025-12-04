@@ -1,0 +1,83 @@
+{
+  "id": "MAT_P4FUNCOE_2FUN_001",
+  "version": "1.0",
+  "created": "2025-11-15",
+  "modified": "2025-11-15",
+  "author": "Exemplo",
+  "classification": {
+    "discipline": "matematica",
+    "module": "P4_funcoes",
+    "module_name": "MÓDULO P4 - Funções",
+    "concept": "2-funcoes_polinomiais",
+    "concept_name": "Funções Polinomiais",
+    "tags": [],
+    "difficulty": 2,
+    "difficulty_label": "Fácil"
+  },
+  "exercise_type": "desenvolvimento",
+  "content": {
+    "has_multiple_parts": false,
+    "parts_count": 0,
+    "has_graphics": false,
+    "requires_packages": [
+      "amsmath",
+      "amssymb"
+    ]
+  },
+  "evaluation": {
+    "bloom_level": "compreensao"
+  },
+  "solution": {
+    "available": false,
+    "file": ""
+  },
+  "usage": {
+    "times_used": 0,
+    "last_used": "",
+    "contexts": []
+  },
+  "status": "active",
+  "exercicios": {
+    "MAT_P4FUNCOE_2FUN_001": {
+      "created": "2025-12-02",
+      "modified": "2025-12-02",
+      "author": "auto-repair",
+      "difficulty": null,
+      "points": 0,
+      "time_estimate_minutes": 0,
+      "has_multiple_parts": false,
+      "parts_count": 1,
+      "tags": [],
+      "status": "auto-added"
+    },
+    "MAT_P4FUNCOE_2FUN_002": {
+      "created": "2025-12-02",
+      "modified": "2025-12-02",
+      "author": "auto-repair",
+      "difficulty": null,
+      "points": 0,
+      "time_estimate_minutes": 0,
+      "has_multiple_parts": false,
+      "parts_count": 1,
+      "tags": [],
+      "status": "auto-added"
+    },
+    "MAT_P4FUNCOE_2FUN_002_solution": {
+      "created": "2025-12-02",
+      "modified": "2025-12-02",
+      "author": "auto-repair",
+      "difficulty": null,
+      "points": 0,
+      "time_estimate_minutes": 0,
+      "has_multiple_parts": false,
+      "parts_count": 1,
+      "tags": [],
+      "status": "auto-added"
+    }
+  },
+  "sample_exercises": [
+    "MAT_P4FUNCOE_2FUN_001",
+    "MAT_P4FUNCOE_2FUN_002",
+    "MAT_P4FUNCOE_2FUN_002_solution"
+  ]
+}

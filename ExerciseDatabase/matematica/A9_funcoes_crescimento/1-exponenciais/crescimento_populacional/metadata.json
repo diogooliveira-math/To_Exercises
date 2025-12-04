@@ -1,0 +1,55 @@
+{
+  "tipo": "crescimento_populacional",
+  "tipo_nome": "Crescimento Populacional",
+  "conceito": "1-exponenciais",
+  "conceito_nome": "Funções Exponenciais",
+  "tema": "A9_funcoes_crescimento",
+  "tema_nome": "Módulo A9 - Funções de Crescimento",
+  "disciplina": "matematica",
+  "descricao": "Modelação de crescimento de populações através de funções exponenciais. Inclui interpretação gráfica e resolução de problemas contextualizados.",
+  "tags_tipo": [
+    "crescimento_exponencial",
+    "populacao",
+    "modelacao",
+    "interpretacao"
+  ],
+  "caracteristicas": {
+    "requer_grafico": true,
+    "requer_modelacao": true,
+    "contexto": "biologico",
+    "base_exponencial": "maior_que_1"
+  },
+  "dificuldade_sugerida": {
+    "min": 3,
+    "max": 4
+  },
+  "exercicios": {
+    "MAT_A9FUNCRE_1EXP_CPO_001": {
+      "created": null,
+      "modified": null,
+      "author": "converted-from-list",
+      "difficulty": null,
+      "points": 0,
+      "time_estimate_minutes": 0,
+      "has_multiple_parts": false,
+      "parts_count": 1,
+      "tags": [],
+      "status": "converted"
+    },
+    "MAT_A9FUNCRES_1EXP_001": {
+      "created": "2025-12-02",
+      "modified": "2025-12-02",
+      "author": "auto-repair",
+      "difficulty": null,
+      "points": 0,
+      "time_estimate_minutes": 0,
+      "has_multiple_parts": false,
+      "parts_count": 1,
+      "tags": [],
+      "status": "auto-added"
+    }
+  },
+  "sample_exercises": [
+    "MAT_A9FUNCRES_1EXP_001"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "tipo": "aplicacoes_praticas",
+  "tipo_nome": "Aplicações Práticas",
+  "conceito": "0-revisoes",
+  "conceito_nome": "Revisões de Crescimento",
+  "tema": "A9_funcoes_crescimento",
+  "tema_nome": "Módulo A9 - Funções de Crescimento",
+  "disciplina": "matematica",
+  "descricao": "Exercícios de aplicação de conceitos matemáticos básicos (proporcionalidade, percentagens) em contextos práticos do quotidiano.",
+  "tags_tipo": [
+    "aplicacao_pratica",
+    "proporcionalidade",
+    "percentagens",
+    "contexto_real"
+  ],
+  "caracteristicas": {
+    "requer_interpretacao": true,
+    "contexto_real": true,
+    "tipo_resposta": "desenvolvimento"
+  },
+  "dificuldade_sugerida": {
+    "min": 2,
+    "max": 3
+  },
+  "exercicios": {
+    "MAT_A9FUNCOE_0RX_APX_001": {
+      "created": "2025-11-20",
+      "modified": "2025-11-20",
+      "author": "Professor",
+      "difficulty": 1,
+      "points": 0,
+      "time_estimate_minutes": 0,
+      "has_multiple_parts": false,
+      "parts_count": 0,
+      "tags": [
+        "crescimento",
+        "aplicacao_pratica",
+        "contexto_real",
+        "consolidacao",
+        "revisao",
+        "proporcionalidade",
+        "percentagens"
+      ],
+      "status": "active"
+    },
+    "MAT_A9FUNCOE_0RX_APX_002": {
+      "created": "2025-11-26",
+      "modified": "2025-11-26",
+      "author": "Teste Automático",
+      "difficulty": 5,
+      "points": 0,
+      "time_estimate_minutes": 0,
+      "has_multiple_parts": true,
+      "parts_count": 0,
+      "tags": [
+        "crescimento",
+        "proporcionalidade",
+        "contexto_real",
+        "percentagens",
+        "revisao",
+        "consolidacao",
+        "aplicacao_pratica",
+        "teste",
+        "automacao"
+      ],
+      "status": "active"
+    }
+  }
+}

@@ -1,0 +1,580 @@
+{
+  "generated_at": "2025-12-03T10:04:49.572032",
+  "db_path": "C:\\Users\\diogo\\projects\\To_Exercises\\docs\\analysis\\exercises.sqlite",
+  "inserted_resolved": 293,
+  "inserted_auto_added": 2,
+  "skipped_existing": 438,
+  "total_rows_after": 295,
+  "warnings": [
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\A8_modelos_discretos\\1-sistemas_numericos\\numeros_figurados\\MAT_A8MODELO_1SX_NFX_010.tex",
+      "existing_exercise_id": "MAT_A8MODELO_1SX_NFX_010",
+      "new_exercise_id": "MAT_A8MODELO_1SX_NFX_01"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\A8_modelos_discretos\\1-sistemas_numericos\\numeros_figurados\\MAT_A8MODELO_1SX_NFX_011.tex",
+      "existing_exercise_id": "MAT_A8MODELO_1SX_NFX_011",
+      "new_exercise_id": "MAT_A8MODELO_1SX_NFX_01"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\A8_modelos_discretos\\1-sistemas_numericos\\numeros_figurados\\MAT_A8MODELO_1SX_NFX_012.tex",
+      "existing_exercise_id": "MAT_A8MODELO_1SX_NFX_012",
+      "new_exercise_id": "MAT_A8MODELO_1SX_NFX_01"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\A8_modelos_discretos\\1-sistemas_numericos\\numeros_figurados\\MAT_A8MODELO_1SX_NFX_013.tex",
+      "existing_exercise_id": "MAT_A8MODELO_1SX_NFX_013",
+      "new_exercise_id": "MAT_A8MODELO_1SX_NFX_01"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\2-funcoes_polinomiais\\MAT_P4FUNCOE_2FUN_002_solution.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_2FUN_002",
+      "new_exercise_id": "MAT_P4FUNCOE_2FUN_002_solution"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\2-funcoes_polinomiais\\MAT_P4FUNCOE_2FUN_002_solution.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_2FUN_002",
+      "new_exercise_id": "MAT_P4FUNCOE_2FUN_002_solution"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\2-funcoes_polinomiais\\MAT_P4FUNCOE_2FUN_002_solution.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_2FUN_002",
+      "new_exercise_id": "MAT_P4FUNCOE_2FUN_002_solution"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_4FX_DAX_006_solution.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FX_DAX_006",
+      "new_exercise_id": "MAT_P4FUNCOE_4FX_DAX_006_solution"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_4FX_DAX_019_solution.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FX_DAX_019",
+      "new_exercise_id": "MAT_P4FUNCOE_4FX_DAX_019_solution"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_4FX_DAX_023_solution.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FX_DAX_023",
+      "new_exercise_id": "MAT_P4FUNCOE_4FX_DAX_023_solution"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_FUNC_DA_001.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_FUNC_DA_001.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_FUNC_DA_001"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_FUNC_DA_001.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_FUNC_DA_001.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_FUNC_DA_001"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_FUNC_DA_002.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_FUNC_DA_002.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_FUNC_DA_002"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_FUNC_DA_002.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_FUNC_DA_002.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_FUNC_DA_002"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_FUNC_DA_003.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_FUNC_DA_003.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_FUNC_DA_003"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_FUNC_DA_003.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_FUNC_DA_003.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_FUNC_DA_003"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_001.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_001.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_001"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_001.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_001.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_001"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_002.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_002.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_002"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_002.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_002.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_002"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_003.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_003.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_003"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_003.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_003.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_003"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_004.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_004.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_004"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_004.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_004.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_004"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_005.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_005.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_005"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_005.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_005.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_005"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_006.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_006.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_006"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_006.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_006.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_006"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_grafica\\MAT_P4FUNCOE_4FIN_GRA_001.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_001.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_001"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_grafica\\MAT_P4FUNCOE_4FIN_GRA_001.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_001.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_001"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_grafica\\MAT_P4FUNCOE_4FIN_GRA_002.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_002.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_002"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_grafica\\MAT_P4FUNCOE_4FIN_GRA_002.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_002.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_002"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_grafica\\MAT_P4FUNCOE_4FIN_GRA_003.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_003.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_003"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_grafica\\MAT_P4FUNCOE_4FIN_GRA_003.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_003.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_003"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_grafica\\MAT_P4FUNCOE_4FIN_GRA_004.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_004.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_004"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_grafica\\MAT_P4FUNCOE_4FIN_GRA_004.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_004.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_004"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_grafica\\MAT_P4FUNCOE_4FIN_GRA_005.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_005.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_005"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_grafica\\MAT_P4FUNCOE_4FIN_GRA_005.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_005.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_005"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\teste_reta_horizontal\\MAT_P4FUNCOE_4FIN_TRH_001.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_001.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_001"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\teste_reta_horizontal\\MAT_P4FUNCOE_4FIN_TRH_001.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_001.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_001"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\teste_reta_horizontal\\MAT_P4FUNCOE_4FIN_TRH_002.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_002.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_002"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\teste_reta_horizontal\\MAT_P4FUNCOE_4FIN_TRH_002.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_002.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_002"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\teste_reta_horizontal\\MAT_P4FUNCOE_4FIN_TRH_003.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_003.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_003"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\teste_reta_horizontal\\MAT_P4FUNCOE_4FIN_TRH_003.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_003.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_003"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\teste_reta_horizontal\\MAT_P4FUNCOE_4FIN_TRH_004.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_004.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_004"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\teste_reta_horizontal\\MAT_P4FUNCOE_4FIN_TRH_004.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_004.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_004"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\teste_reta_horizontal\\MAT_P4FUNCOE_4FIN_TRH_005.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_005.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_005"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\teste_reta_horizontal\\MAT_P4FUNCOE_4FIN_TRH_005.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_005.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_005"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_FUNC_DA_001.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_FUNC_DA_001.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_FUNC_DA_001"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_FUNC_DA_001.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_FUNC_DA_001.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_FUNC_DA_001"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_FUNC_DA_002.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_FUNC_DA_002.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_FUNC_DA_002"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_FUNC_DA_002.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_FUNC_DA_002.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_FUNC_DA_002"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_FUNC_DA_003.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_FUNC_DA_003.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_FUNC_DA_003"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_FUNC_DA_003.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_FUNC_DA_003.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_FUNC_DA_003"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_4FX_DAX_006_solution.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FX_DAX_006",
+      "new_exercise_id": "MAT_P4FUNCOE_4FX_DAX_006_solution"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_4FX_DAX_019_solution.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FX_DAX_019",
+      "new_exercise_id": "MAT_P4FUNCOE_4FX_DAX_019_solution"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_4FX_DAX_023_solution.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FX_DAX_023",
+      "new_exercise_id": "MAT_P4FUNCOE_4FX_DAX_023_solution"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_FUNC_DA_001.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_FUNC_DA_001.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_FUNC_DA_001"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_FUNC_DA_001.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_FUNC_DA_001.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_FUNC_DA_001"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_FUNC_DA_002.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_FUNC_DA_002.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_FUNC_DA_002"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_FUNC_DA_002.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_FUNC_DA_002.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_FUNC_DA_002"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_FUNC_DA_003.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_FUNC_DA_003.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_FUNC_DA_003"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_FUNC_DA_003.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_FUNC_DA_003.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_FUNC_DA_003"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_001.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_001.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_001"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_001.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_001.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_001"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_002.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_002.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_002"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_002.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_002.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_002"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_003.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_003.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_003"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_003.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_003.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_003"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_004.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_004.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_004"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_004.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_004.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_004"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_005.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_005.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_005"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_005.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_005.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_005"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_006.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_006.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_006"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_006.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_006.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_ANA_006"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_grafica\\MAT_P4FUNCOE_4FIN_GRA_001.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_001.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_001"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_grafica\\MAT_P4FUNCOE_4FIN_GRA_001.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_001.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_001"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_grafica\\MAT_P4FUNCOE_4FIN_GRA_002.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_002.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_002"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_grafica\\MAT_P4FUNCOE_4FIN_GRA_002.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_002.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_002"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_grafica\\MAT_P4FUNCOE_4FIN_GRA_003.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_003.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_003"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_grafica\\MAT_P4FUNCOE_4FIN_GRA_003.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_003.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_003"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_grafica\\MAT_P4FUNCOE_4FIN_GRA_004.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_004.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_004"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_grafica\\MAT_P4FUNCOE_4FIN_GRA_004.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_004.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_004"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_grafica\\MAT_P4FUNCOE_4FIN_GRA_005.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_005.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_005"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_grafica\\MAT_P4FUNCOE_4FIN_GRA_005.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_005.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_GRA_005"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\teste_reta_horizontal\\MAT_P4FUNCOE_4FIN_TRH_001.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_001.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_001"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\teste_reta_horizontal\\MAT_P4FUNCOE_4FIN_TRH_001.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_001.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_001"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\teste_reta_horizontal\\MAT_P4FUNCOE_4FIN_TRH_002.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_002.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_002"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\teste_reta_horizontal\\MAT_P4FUNCOE_4FIN_TRH_002.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_002.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_002"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\teste_reta_horizontal\\MAT_P4FUNCOE_4FIN_TRH_003.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_003.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_003"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\teste_reta_horizontal\\MAT_P4FUNCOE_4FIN_TRH_003.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_003.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_003"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\teste_reta_horizontal\\MAT_P4FUNCOE_4FIN_TRH_004.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_004.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_004"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\teste_reta_horizontal\\MAT_P4FUNCOE_4FIN_TRH_004.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_004.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_004"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\teste_reta_horizontal\\MAT_P4FUNCOE_4FIN_TRH_005.agentfix.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_005.agentfix",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_005"
+    },
+    {
+      "type": "exercise_id_mismatch",
+      "file_path": "ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\teste_reta_horizontal\\MAT_P4FUNCOE_4FIN_TRH_005.bak_agent_20251127T121826Z.tex",
+      "existing_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_005.bak_agent_20251127T121826Z",
+      "new_exercise_id": "MAT_P4FUNCOE_4FIN_TRH_005"
+    }
+  ]
+}

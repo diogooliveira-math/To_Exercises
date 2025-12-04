@@ -1,0 +1,29 @@
+{
+  "generated_at": "2025-12-03T10:28:26.447048",
+  "db_path": "C:\\Users\\diogo\\projects\\To_Exercises\\docs\\analysis\\exercises-normalized.sqlite",
+  "backup_path": "C:\\Users\\diogo\\projects\\To_Exercises\\docs\\analysis\\exercises-normalized.sqlite.bak.20251203T102826",
+  "merged_count": 2,
+  "merged_exercise_ids": [
+    "MAT_A8MODELO_1SX_NFX_014",
+    "MAT_P2ESTATI_REVI_D_002"
+  ],
+  "skipped_exercise_ids": [],
+  "actions": [
+    {
+      "exercise_id": "MAT_A8MODELO_1SX_NFX_014",
+      "kept_id": 254,
+      "deleted_placeholder_ids": [
+        "40"
+      ],
+      "applied_updates": {}
+    },
+    {
+      "exercise_id": "MAT_P2ESTATI_REVI_D_002",
+      "kept_id": 255,
+      "deleted_placeholder_ids": [
+        "84"
+      ],
+      "applied_updates": {}
+    }
+  ]
+}

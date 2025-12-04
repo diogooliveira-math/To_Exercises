@@ -1,0 +1,6 @@
+to_exercises.db
+.venv
+__pycache__
+*.pyc
+*.pyo
+.env

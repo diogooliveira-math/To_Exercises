@@ -1,0 +1,53 @@
+{
+  "tipo": "calculo_funcoes",
+  "tipo_nome": "Cálculo com Funções",
+  "conceito": "0-revisoes",
+  "conceito_nome": "Revisões de Crescimento",
+  "tema": "A9_funcoes_crescimento",
+  "tema_nome": "Módulo A9 - Funções de Crescimento",
+  "disciplina": "matematica",
+  "descricao": "Exercícios de cálculo de imagens, objetos e manipulação algébrica básica de funções.",
+  "tags_tipo": [
+    "calculo_imagens",
+    "calculo_objetos",
+    "algebra",
+    "funcoes_lineares"
+  ],
+  "caracteristicas": {
+    "requer_calculo": true,
+    "tipo_resposta": "desenvolvimento"
+  },
+  "dificuldade_sugerida": {
+    "min": 2,
+    "max": 3
+  },
+  "exercicios": {
+    "MAT_A9FUNCRE_0REV_CAL_001": {
+      "created": null,
+      "modified": null,
+      "author": "converted-from-list",
+      "difficulty": null,
+      "points": 0,
+      "time_estimate_minutes": 0,
+      "has_multiple_parts": false,
+      "parts_count": 1,
+      "tags": [],
+      "status": "converted"
+    },
+    "MAT_A9FUNCRES_0REV_002": {
+      "created": "2025-12-02",
+      "modified": "2025-12-02",
+      "author": "auto-repair",
+      "difficulty": null,
+      "points": 0,
+      "time_estimate_minutes": 0,
+      "has_multiple_parts": false,
+      "parts_count": 1,
+      "tags": [],
+      "status": "auto-added"
+    }
+  },
+  "sample_exercises": [
+    "MAT_A9FUNCRES_0REV_002"
+  ]
+}

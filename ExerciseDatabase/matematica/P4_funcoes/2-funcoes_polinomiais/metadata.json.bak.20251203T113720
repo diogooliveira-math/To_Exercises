@@ -1,0 +1,65 @@
+{
+  "id": "2-funcoes_polinomiais",
+  "name": "Funções Polinomiais",
+  "description": "Estudo das funções polinomiais, suas propriedades, coeficientes, grau e operações básicas.",
+  "module": "P4_funcoes",
+  "module_name": "MÓDULO P4 - Funções",
+  "order": 2,
+  "tags": [
+    "polinomio",
+    "coeficientes",
+    "grau",
+    "funcao_polinomial",
+    "equacao_quadratica",
+    "raizes",
+    "parabola"
+  ],
+  "difficulty_range": {
+    "min": 2,
+    "max": 3
+  },
+  "estimated_hours": 4,
+  "exercicios": {
+    "MAT_P4FUNCOE_2FUN_001": {
+      "created": "2025-12-02",
+      "modified": "2025-12-02",
+      "author": "auto-repair",
+      "difficulty": null,
+      "points": 0,
+      "time_estimate_minutes": 0,
+      "has_multiple_parts": false,
+      "parts_count": 1,
+      "tags": [],
+      "status": "auto-added"
+    },
+    "MAT_P4FUNCOE_2FUN_002": {
+      "created": "2025-12-02",
+      "modified": "2025-12-02",
+      "author": "auto-repair",
+      "difficulty": null,
+      "points": 0,
+      "time_estimate_minutes": 0,
+      "has_multiple_parts": false,
+      "parts_count": 1,
+      "tags": [],
+      "status": "auto-added"
+    },
+    "MAT_P4FUNCOE_2FUN_002_solution": {
+      "created": "2025-12-02",
+      "modified": "2025-12-02",
+      "author": "auto-repair",
+      "difficulty": null,
+      "points": 0,
+      "time_estimate_minutes": 0,
+      "has_multiple_parts": false,
+      "parts_count": 1,
+      "tags": [],
+      "status": "auto-added"
+    }
+  },
+  "sample_exercises": [
+    "MAT_P4FUNCOE_2FUN_001",
+    "MAT_P4FUNCOE_2FUN_002",
+    "MAT_P4FUNCOE_2FUN_002_solution"
+  ]
+}

@@ -1,0 +1,12 @@
+# TODOs from session (2025-12-03)
+
+1. Run importer dry-run on ExerciseDatabase and produce anomaly report (read-only). Save report to docs/analysis/import-dry-run-report-YYYYMMDD.json  (high)
+2. Ensure tests run against isolated DB (configure in-memory SQLite for pytest) and re-run full test suite until all tests pass  (high)
+3. Add idempotency and checksum uniqueness tests; ensure importer handles IntegrityError gracefully  (high)
+4. Implement generator CLI that calls FastAPI by exercise IDs, assembles LaTeX, and builds PDF (minimal template)  (medium)
+5. Create minimal LaTeX template (preamble, exercise environment) with LaTeX expert input  (medium)
+6. Request peer code review for models, API contract, and importer logic (share PRD + key files)  (high)
+7. Draft README and quickstart docs for developer workflow (install, run API, import dry-run, generator CLI, run tests)  (medium)
+8. Set up CI (GitHub Actions) to run pytest and optionally attempt a sample LaTeX build on push to main  (medium)
+9. Contact teaching colleague to validate student persona and sample exercises (vocational contexts)  (low)
+10. Plan next development session: decide which task to start (import dry-run recommended)  (low)

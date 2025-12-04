@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "to_exercises"
+version = "0.0.0"
+description = "To_Exercises service"
+authors = [{name = "Diogo"}]
+dependencies = [
+  "fastapi",
+  "uvicorn[standard]",
+  "sqlmodel",
+  "typer",
+  "httpx",
+]
+optional-dependencies = { dev = ["pytest", "pytest-asyncio", "httpx"] }

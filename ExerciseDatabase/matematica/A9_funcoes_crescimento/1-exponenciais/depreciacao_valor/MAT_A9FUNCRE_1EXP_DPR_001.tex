@@ -1,0 +1,32 @@
+% meta:
+% id: MAT_A9FUNCRE_1EXP_DPR_109
+% module: A9_funcoes_crescimento
+% concept: 1-exponenciais
+% concept_name: Funções Exponenciais
+% tipo: depreciacao_valor
+% tipo_nome: Depreciação de Valor
+% difficulty: 3
+% tags: decaimento_exponencial,valor_comercial,financeiro,exponenciais
+% author: sistema
+\exercicio{
+Valor de um automóvel: $f(t)=20500(0,81)^t$ (euros) após $t$ anos.
+\begin{enumerate}
+  \item Estima valor aos 15 meses.
+  \vspace{3cm}
+  \item Determina quando $f(t)<5000$.
+  \vspace{3cm}
+  \item Calcula percentagem de desvalorização anual.
+  \vspace{3cm}
+  \item Esboça o gráfico e interpreta três pontos.
+    \begin{center}
+  \begin{tikzpicture}[scale=0.8]
+    \draw[->] (-0.5,0) -- (10,0) node[right] {$t$};
+    \draw[->] (0,-0.5) -- (0,6) node[above] {$C(t)$};
+    \foreach \x in {1,2,...,9}
+      \draw (\x,0.1) -- (\x,-0.1);
+    \foreach \y in {1,2,...,5}
+      \draw (0.1,\y) -- (-0.1,\y);
+  \end{tikzpicture}
+  \end{center}
+\end{enumerate}
+}

@@ -1,0 +1,114 @@
+{
+  "tipo": "conceito_funcao",
+  "tipo_nome": "Conceito de Função",
+  "conceito": "0-revisoes",
+  "conceito_nome": "Revisões de Crescimento",
+  "tema": "A9_funcoes_crescimento",
+  "tema_nome": "Módulo A9 - Funções de Crescimento",
+  "disciplina": "matematica",
+  "descricao": "Exercícios sobre o conceito fundamental de função, verificação de correspondências e identificação de funções.",
+  "tags_tipo": [
+    "conceito_funcao",
+    "definicao",
+    "correspondencia",
+    "verificacao"
+  ],
+  "caracteristicas": {
+    "requer_definicoes": true,
+    "tipo_resposta": "escolha_multipla_justificada"
+  },
+  "dificuldade_sugerida": {
+    "min": 1,
+    "max": 2
+  },
+  "exercicios": {
+    "MAT_A9FUNCOE_0RX_CFX_001": {
+      "created": "2025-11-26",
+      "modified": "2025-11-26",
+      "author": "Teste Automático",
+      "difficulty": 1,
+      "points": 0,
+      "time_estimate_minutes": 0,
+      "has_multiple_parts": true,
+      "parts_count": 0,
+      "tags": [
+        "correspondencia",
+        "definicao",
+        "conceito_funcao",
+        "consolidacao",
+        "crescimento",
+        "revisao",
+        "verificacao",
+        "teste",
+        "automacao"
+      ],
+      "status": "active"
+    },
+    "MAT_A9FUNCOE_0RX_CFX_002": {
+      "created": "2025-11-26",
+      "modified": "2025-11-26",
+      "author": "Teste Automático",
+      "difficulty": 1,
+      "points": 0,
+      "time_estimate_minutes": 0,
+      "has_multiple_parts": false,
+      "parts_count": 0,
+      "tags": [
+        "conceito_funcao",
+        "consolidacao",
+        "revisao",
+        "crescimento",
+        "correspondencia",
+        "definicao",
+        "verificacao",
+        "teste",
+        "automacao"
+      ],
+      "status": "active"
+    },
+    "MAT_A9FUNCOE_0RX_CFX_003": {
+      "created": "2025-11-26",
+      "modified": "2025-11-26",
+      "author": "Teste Automático",
+      "difficulty": 3,
+      "points": 0,
+      "time_estimate_minutes": 0,
+      "has_multiple_parts": false,
+      "parts_count": 0,
+      "tags": [
+        "consolidacao",
+        "conceito_funcao",
+        "revisao",
+        "correspondencia",
+        "crescimento",
+        "verificacao",
+        "definicao",
+        "teste",
+        "automacao"
+      ],
+      "status": "active"
+    },
+    "MAT_A9FUNCOE_0RX_CFX_004": {
+      "created": "2025-11-26",
+      "modified": "2025-11-26",
+      "author": "Teste Automático",
+      "difficulty": 5,
+      "points": 0,
+      "time_estimate_minutes": 0,
+      "has_multiple_parts": true,
+      "parts_count": 2,
+      "tags": [
+        "verificacao",
+        "crescimento",
+        "definicao",
+        "conceito_funcao",
+        "consolidacao",
+        "revisao",
+        "correspondencia",
+        "teste",
+        "automacao"
+      ],
+      "status": "active"
+    }
+  }
+}

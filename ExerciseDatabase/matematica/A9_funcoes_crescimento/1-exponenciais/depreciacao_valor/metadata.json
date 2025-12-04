@@ -1,0 +1,80 @@
+{
+  "tipo": "depreciacao_valor",
+  "tipo_nome": "Depreciação de Valor",
+  "conceito": "1-exponenciais",
+  "conceito_nome": "Funções Exponenciais",
+  "tema": "A9_funcoes_crescimento",
+  "tema_nome": "Módulo A9 - Funções de Crescimento",
+  "disciplina": "matematica",
+  "descricao": "Modelação de depreciação de valor comercial de bens através de funções exponenciais decrescentes.",
+  "tags_tipo": [
+    "decaimento_exponencial",
+    "depreciacao",
+    "financeiro",
+    "valor_comercial"
+  ],
+  "caracteristicas": {
+    "requer_grafico": true,
+    "requer_modelacao": true,
+    "contexto": "financeiro",
+    "base_exponencial": "entre_0_e_1",
+    "interpretacao_percentual": true
+  },
+  "dificuldade_sugerida": {
+    "min": 3,
+    "max": 4
+  },
+  "exercicios": {
+    "MAT_A9FUNCOE_1EX_DVX_001": {
+      "created": "2025-11-26",
+      "modified": "2025-11-26",
+      "author": "Teste Automático",
+      "difficulty": 4,
+      "points": 0,
+      "time_estimate_minutes": 0,
+      "has_multiple_parts": true,
+      "parts_count": 0,
+      "tags": [
+        "financeiro",
+        "depreciacao",
+        "decaimento_exponencial",
+        "decaimento",
+        "crescimento",
+        "exponencial",
+        "modelacao",
+        "valor_comercial",
+        "teste",
+        "automacao"
+      ],
+      "status": "active"
+    },
+    "MAT_A9FUNCRES_1EXP_004": {
+      "created": "2025-12-02",
+      "modified": "2025-12-02",
+      "author": "auto-repair",
+      "difficulty": null,
+      "points": 0,
+      "time_estimate_minutes": 0,
+      "has_multiple_parts": false,
+      "parts_count": 1,
+      "tags": [],
+      "status": "auto-added"
+    },
+    "MAT_A9FUNCRE_1EXP_DPR_001": {
+      "created": "2025-12-02",
+      "modified": "2025-12-02",
+      "author": "auto-repair",
+      "difficulty": null,
+      "points": 0,
+      "time_estimate_minutes": 0,
+      "has_multiple_parts": false,
+      "parts_count": 1,
+      "tags": [],
+      "status": "auto-added"
+    }
+  },
+  "sample_exercises": [
+    "MAT_A9FUNCRES_1EXP_004",
+    "MAT_A9FUNCRE_1EXP_DPR_001"
+  ]
+}

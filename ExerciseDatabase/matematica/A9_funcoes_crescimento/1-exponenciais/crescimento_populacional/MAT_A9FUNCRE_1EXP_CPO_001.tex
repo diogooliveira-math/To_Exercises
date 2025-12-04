@@ -1,0 +1,44 @@
+% meta:
+% id: MAT_A9FUNCRE_1EXP_CPO_107
+% module: A9_funcoes_crescimento
+% concept: 1-exponenciais
+% concept_name: Funções Exponenciais
+% tipo: crescimento_populacional
+% tipo_nome: Crescimento Populacional
+% difficulty: 3
+% tags: crescimento_exponencial,modelacao,exponenciais,populacao
+% author: sistema
+\exercicio{
+Numa reserva natural, a população de coelhos evolui segundo: $C(t)=520\times 1,1^t$, onde $t$ (anos) desde 1998.
+\textbf{Tarefas:}
+\begin{enumerate}
+  \item Representa graficamente $C(t)$ (esboço qualitativo).
+  
+  \begin{center}
+  \begin{tikzpicture}[scale=0.8]
+    \draw[->] (-0.5,0) -- (10,0) node[right] {$t$};
+    \draw[->] (0,-0.5) -- (0,6) node[above] {$C(t)$};
+    \foreach \x in {1,2,...,9}
+      \draw (\x,0.1) -- (\x,-0.1);
+    \foreach \y in {1,2,...,5}
+      \draw (0.1,\y) -- (-0.1,\y);
+  \end{tikzpicture}
+  \end{center}
+  
+  \item Indica se o gráfico é crescente ou decrescente e interpreta.
+  \vspace{3cm}
+  \item Escolhe três pontos e explica o significado.
+  \vspace{3cm}
+  {\renewcommand{\labelenumii}{(\alph{enumii})}
+  \begin{enumerate}
+    \item Determina \(C(0)\) e \(C(1)\) e interpreta os resultados.
+    \vspace{2cm}
+    \item Calcula a taxa de crescimento relativa anual e comenta a sua implicação para a população.
+    \vspace{2cm}
+  \end{enumerate}
+  }
+  \vspace{3cm}
+  \item Cria um problema novo de crescimento exponencial e resolve-o.
+  \vspace{3cm}
+\end{enumerate}
+}

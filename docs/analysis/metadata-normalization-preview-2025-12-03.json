@@ -1,0 +1,273 @@
+{
+  "generated_at": "2025-12-03T11:36:49.037769",
+  "preview": {
+    "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\2-funcoes_polinomiais\\MAT_P4FUNCOE_2FUN_001.json": [
+      {
+        "json_path": "/sample_exercises/2",
+        "old": "MAT_P4FUNCOE_2FUN_002_solution",
+        "new": "MAT_P4FUNCOE_2FUN_002"
+      }
+    ],
+    "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\2-funcoes_polinomiais\\MAT_P4FUNCOE_2FUN_002.json": [
+      {
+        "json_path": "/sample_exercises/2",
+        "old": "MAT_P4FUNCOE_2FUN_002_solution",
+        "new": "MAT_P4FUNCOE_2FUN_002"
+      }
+    ],
+    "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\2-funcoes_polinomiais\\metadata.json": [
+      {
+        "json_path": "/sample_exercises/2",
+        "old": "MAT_P4FUNCOE_2FUN_002_solution",
+        "new": "MAT_P4FUNCOE_2FUN_002"
+      }
+    ],
+    "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\metadata.json": [
+      {
+        "json_path": "/sample_exercises/6",
+        "old": "MAT_P4FUNCOE_4FX_DAX_006_solution",
+        "new": "MAT_P4FUNCOE_4FX_DAX_006"
+      },
+      {
+        "json_path": "/sample_exercises/10",
+        "old": "MAT_P4FUNCOE_4FX_DAX_019_solution",
+        "new": "MAT_P4FUNCOE_4FX_DAX_019"
+      },
+      {
+        "json_path": "/sample_exercises/14",
+        "old": "MAT_P4FUNCOE_4FX_DAX_023_solution",
+        "new": "MAT_P4FUNCOE_4FX_DAX_023"
+      },
+      {
+        "json_path": "/sample_exercises/16",
+        "old": "MAT_P4FUNCOE_FUNC_DA_001.agentfix",
+        "new": "MAT_P4FUNCOE_FUNC_DA_001"
+      },
+      {
+        "json_path": "/sample_exercises/19",
+        "old": "MAT_P4FUNCOE_FUNC_DA_002.agentfix",
+        "new": "MAT_P4FUNCOE_FUNC_DA_002"
+      },
+      {
+        "json_path": "/sample_exercises/22",
+        "old": "MAT_P4FUNCOE_FUNC_DA_003.agentfix",
+        "new": "MAT_P4FUNCOE_FUNC_DA_003"
+      },
+      {
+        "json_path": "/sample_exercises/25",
+        "old": "MAT_P4FUNCOE_4FIN_ANA_001.agentfix",
+        "new": "MAT_P4FUNCOE_4FIN_ANA_001"
+      },
+      {
+        "json_path": "/sample_exercises/28",
+        "old": "MAT_P4FUNCOE_4FIN_ANA_002.agentfix",
+        "new": "MAT_P4FUNCOE_4FIN_ANA_002"
+      },
+      {
+        "json_path": "/sample_exercises/31",
+        "old": "MAT_P4FUNCOE_4FIN_ANA_003.agentfix",
+        "new": "MAT_P4FUNCOE_4FIN_ANA_003"
+      },
+      {
+        "json_path": "/sample_exercises/34",
+        "old": "MAT_P4FUNCOE_4FIN_ANA_004.agentfix",
+        "new": "MAT_P4FUNCOE_4FIN_ANA_004"
+      },
+      {
+        "json_path": "/sample_exercises/37",
+        "old": "MAT_P4FUNCOE_4FIN_ANA_005.agentfix",
+        "new": "MAT_P4FUNCOE_4FIN_ANA_005"
+      },
+      {
+        "json_path": "/sample_exercises/40",
+        "old": "MAT_P4FUNCOE_4FIN_ANA_006.agentfix",
+        "new": "MAT_P4FUNCOE_4FIN_ANA_006"
+      },
+      {
+        "json_path": "/sample_exercises/43",
+        "old": "MAT_P4FUNCOE_4FIN_GRA_001.agentfix",
+        "new": "MAT_P4FUNCOE_4FIN_GRA_001"
+      },
+      {
+        "json_path": "/sample_exercises/46",
+        "old": "MAT_P4FUNCOE_4FIN_GRA_002.agentfix",
+        "new": "MAT_P4FUNCOE_4FIN_GRA_002"
+      },
+      {
+        "json_path": "/sample_exercises/49",
+        "old": "MAT_P4FUNCOE_4FIN_GRA_003.agentfix",
+        "new": "MAT_P4FUNCOE_4FIN_GRA_003"
+      },
+      {
+        "json_path": "/sample_exercises/52",
+        "old": "MAT_P4FUNCOE_4FIN_GRA_004.agentfix",
+        "new": "MAT_P4FUNCOE_4FIN_GRA_004"
+      },
+      {
+        "json_path": "/sample_exercises/55",
+        "old": "MAT_P4FUNCOE_4FIN_GRA_005.agentfix",
+        "new": "MAT_P4FUNCOE_4FIN_GRA_005"
+      },
+      {
+        "json_path": "/sample_exercises/59",
+        "old": "MAT_P4FUNCOE_4FIN_TRH_001.agentfix",
+        "new": "MAT_P4FUNCOE_4FIN_TRH_001"
+      },
+      {
+        "json_path": "/sample_exercises/62",
+        "old": "MAT_P4FUNCOE_4FIN_TRH_002.agentfix",
+        "new": "MAT_P4FUNCOE_4FIN_TRH_002"
+      },
+      {
+        "json_path": "/sample_exercises/65",
+        "old": "MAT_P4FUNCOE_4FIN_TRH_003.agentfix",
+        "new": "MAT_P4FUNCOE_4FIN_TRH_003"
+      },
+      {
+        "json_path": "/sample_exercises/68",
+        "old": "MAT_P4FUNCOE_4FIN_TRH_004.agentfix",
+        "new": "MAT_P4FUNCOE_4FIN_TRH_004"
+      },
+      {
+        "json_path": "/sample_exercises/71",
+        "old": "MAT_P4FUNCOE_4FIN_TRH_005.agentfix",
+        "new": "MAT_P4FUNCOE_4FIN_TRH_005"
+      }
+    ],
+    "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\metadata.json": [
+      {
+        "json_path": "/sample_exercises/8",
+        "old": "MAT_P4FUNCOE_FUNC_DA_001.agentfix",
+        "new": "MAT_P4FUNCOE_FUNC_DA_001"
+      },
+      {
+        "json_path": "/sample_exercises/11",
+        "old": "MAT_P4FUNCOE_FUNC_DA_002.agentfix",
+        "new": "MAT_P4FUNCOE_FUNC_DA_002"
+      },
+      {
+        "json_path": "/sample_exercises/14",
+        "old": "MAT_P4FUNCOE_FUNC_DA_003.agentfix",
+        "new": "MAT_P4FUNCOE_FUNC_DA_003"
+      }
+    ],
+    "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\_meta.json": [
+      {
+        "json_path": "/sample_exercises/6",
+        "old": "MAT_P4FUNCOE_4FX_DAX_006_solution",
+        "new": "MAT_P4FUNCOE_4FX_DAX_006"
+      },
+      {
+        "json_path": "/sample_exercises/10",
+        "old": "MAT_P4FUNCOE_4FX_DAX_019_solution",
+        "new": "MAT_P4FUNCOE_4FX_DAX_019"
+      },
+      {
+        "json_path": "/sample_exercises/14",
+        "old": "MAT_P4FUNCOE_4FX_DAX_023_solution",
+        "new": "MAT_P4FUNCOE_4FX_DAX_023"
+      },
+      {
+        "json_path": "/sample_exercises/16",
+        "old": "MAT_P4FUNCOE_FUNC_DA_001.agentfix",
+        "new": "MAT_P4FUNCOE_FUNC_DA_001"
+      },
+      {
+        "json_path": "/sample_exercises/19",
+        "old": "MAT_P4FUNCOE_FUNC_DA_002.agentfix",
+        "new": "MAT_P4FUNCOE_FUNC_DA_002"
+      },
+      {
+        "json_path": "/sample_exercises/22",
+        "old": "MAT_P4FUNCOE_FUNC_DA_003.agentfix",
+        "new": "MAT_P4FUNCOE_FUNC_DA_003"
+      }
+    ],
+    "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\metadata.json": [
+      {
+        "json_path": "/sample_exercises/0",
+        "old": "MAT_P4FUNCOE_4FIN_ANA_001.agentfix",
+        "new": "MAT_P4FUNCOE_4FIN_ANA_001"
+      },
+      {
+        "json_path": "/sample_exercises/3",
+        "old": "MAT_P4FUNCOE_4FIN_ANA_002.agentfix",
+        "new": "MAT_P4FUNCOE_4FIN_ANA_002"
+      },
+      {
+        "json_path": "/sample_exercises/6",
+        "old": "MAT_P4FUNCOE_4FIN_ANA_003.agentfix",
+        "new": "MAT_P4FUNCOE_4FIN_ANA_003"
+      },
+      {
+        "json_path": "/sample_exercises/9",
+        "old": "MAT_P4FUNCOE_4FIN_ANA_004.agentfix",
+        "new": "MAT_P4FUNCOE_4FIN_ANA_004"
+      },
+      {
+        "json_path": "/sample_exercises/12",
+        "old": "MAT_P4FUNCOE_4FIN_ANA_005.agentfix",
+        "new": "MAT_P4FUNCOE_4FIN_ANA_005"
+      },
+      {
+        "json_path": "/sample_exercises/15",
+        "old": "MAT_P4FUNCOE_4FIN_ANA_006.agentfix",
+        "new": "MAT_P4FUNCOE_4FIN_ANA_006"
+      }
+    ],
+    "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_grafica\\metadata.json": [
+      {
+        "json_path": "/sample_exercises/0",
+        "old": "MAT_P4FUNCOE_4FIN_GRA_001.agentfix",
+        "new": "MAT_P4FUNCOE_4FIN_GRA_001"
+      },
+      {
+        "json_path": "/sample_exercises/3",
+        "old": "MAT_P4FUNCOE_4FIN_GRA_002.agentfix",
+        "new": "MAT_P4FUNCOE_4FIN_GRA_002"
+      },
+      {
+        "json_path": "/sample_exercises/6",
+        "old": "MAT_P4FUNCOE_4FIN_GRA_003.agentfix",
+        "new": "MAT_P4FUNCOE_4FIN_GRA_003"
+      },
+      {
+        "json_path": "/sample_exercises/9",
+        "old": "MAT_P4FUNCOE_4FIN_GRA_004.agentfix",
+        "new": "MAT_P4FUNCOE_4FIN_GRA_004"
+      },
+      {
+        "json_path": "/sample_exercises/12",
+        "old": "MAT_P4FUNCOE_4FIN_GRA_005.agentfix",
+        "new": "MAT_P4FUNCOE_4FIN_GRA_005"
+      }
+    ],
+    "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\teste_reta_horizontal\\metadata.json": [
+      {
+        "json_path": "/sample_exercises/0",
+        "old": "MAT_P4FUNCOE_4FIN_TRH_001.agentfix",
+        "new": "MAT_P4FUNCOE_4FIN_TRH_001"
+      },
+      {
+        "json_path": "/sample_exercises/3",
+        "old": "MAT_P4FUNCOE_4FIN_TRH_002.agentfix",
+        "new": "MAT_P4FUNCOE_4FIN_TRH_002"
+      },
+      {
+        "json_path": "/sample_exercises/6",
+        "old": "MAT_P4FUNCOE_4FIN_TRH_003.agentfix",
+        "new": "MAT_P4FUNCOE_4FIN_TRH_003"
+      },
+      {
+        "json_path": "/sample_exercises/9",
+        "old": "MAT_P4FUNCOE_4FIN_TRH_004.agentfix",
+        "new": "MAT_P4FUNCOE_4FIN_TRH_004"
+      },
+      {
+        "json_path": "/sample_exercises/12",
+        "old": "MAT_P4FUNCOE_4FIN_TRH_005.agentfix",
+        "new": "MAT_P4FUNCOE_4FIN_TRH_005"
+      }
+    ]
+  }
+}

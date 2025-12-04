@@ -1,0 +1,13 @@
+id,title,description,priority,status,owner,estimate
+s1-t1,Setup dev environment & CI,"README quickstart, GitHub Actions job to run pytest, validate on clean checkout",high,pending,Diogo,M
+s1-t2,Add Dockerfile and docker-compose,"Provide Dockerfile for dev and optional docker-compose for local stacks",medium,pending,Diogo,M
+s1-t3,DB init & migration plan,"Implement init_db, document migration approach (Alembic later)",high,pending,Diogo,M
+s2-t1,Implement importer dry-run CLI,"CLI command import --dry-run that produces JSON anomaly report",high,pending,Diogo,L
+s2-t2,Tests for dry-run,"Unit & integration tests for anomaly detection and sample fixtures",high,pending,Diogo,M
+s2-t3,Import apply transactional upsert,"Apply mode uses DB transactions and rolls back on failure",high,pending,Diogo,L
+s2-t4,Conflict handling & 409 payload,"Enforce uniqueness constraint and return 409 with conflict_id on conflict",high,pending,Diogo,M
+s3-t1,Expand API endpoints,"Add PUT/DELETE as needed and ensure response models align with SQLModel",high,pending,Diogo,M
+s3-t2,Contract tests (TestClient),"Create contract tests asserting upsert, 400/409 behavior, and API schemas",high,pending,Diogo,M
+s4-t1,Generator preview mode,"Implement preview flag that returns LaTeX/HTML fragment without invoking pdflatex",medium,pending,Diogo,M
+s4-t2,Tests for generator preview,"Add tests for generator preview behavior and sample fixtures",medium,pending,Diogo,S
+plan-t1,Assign owners & finalize sprint scope,"Assign owners, priorities and select top tasks for this sprint",medium,pending,Diogo,S

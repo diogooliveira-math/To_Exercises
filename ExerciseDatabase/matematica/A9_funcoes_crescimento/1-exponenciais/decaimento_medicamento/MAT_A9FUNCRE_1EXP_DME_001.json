@@ -1,0 +1,86 @@
+{
+  "id": "MAT_A9FUNCRE_1EXP_DME_001",
+  "classification": {
+    "discipline": "matematica",
+    "module": "A9_funcoes_crescimento",
+    "module_name": "Módulo A9 - Funções e Crescimento",
+    "concept": "1-exponenciais",
+    "concept_name": "Funções Exponenciais",
+    "tipo": "decaimento_medicamento",
+    "tipo_nome": "Decaimento de Medicamento",
+    "tags": [
+      "decaimento_exponencial",
+      "medicamento",
+      "exponenciais",
+      "modelacao",
+      "farmacologia"
+    ],
+    "difficulty": 3,
+    "difficulty_label": "Médio"
+  },
+  "metadata": {
+    "type": "desenvolvimento",
+    "points": 15,
+    "estimated_time_minutes": 30,
+    "source": "projeto_investigacao",
+    "status": "active",
+    "bloom_level": "aplicacao",
+    "pedagogical_notes": "Modelação de decaimento de concentração de medicamento no sangue"
+  },
+  "content": {
+    "parts": 4,
+    "requires_graph": true,
+    "requires_calculation": true,
+    "context": "real_world",
+    "mathematical_model": "C(t)=500×0.99^t"
+  },
+  "history": {
+    "created_at": "2025-11-19T11:15:00",
+    "updated_at": "2025-11-19T11:15:00",
+    "version": 1,
+    "author": "sistema"
+  },
+  "exercicios": {
+    "MAT_A9FUNCOE_1EX_DMX_001": {
+      "created": "2025-12-02",
+      "modified": "2025-12-02",
+      "author": "auto-repair",
+      "difficulty": null,
+      "points": 0,
+      "time_estimate_minutes": 0,
+      "has_multiple_parts": false,
+      "parts_count": 1,
+      "tags": [],
+      "status": "auto-added"
+    },
+    "MAT_A9FUNCRES_1EXP_002": {
+      "created": "2025-12-02",
+      "modified": "2025-12-02",
+      "author": "auto-repair",
+      "difficulty": null,
+      "points": 0,
+      "time_estimate_minutes": 0,
+      "has_multiple_parts": false,
+      "parts_count": 1,
+      "tags": [],
+      "status": "auto-added"
+    },
+    "MAT_A9FUNCRE_1EXP_DME_001": {
+      "created": "2025-12-02",
+      "modified": "2025-12-02",
+      "author": "auto-repair",
+      "difficulty": null,
+      "points": 0,
+      "time_estimate_minutes": 0,
+      "has_multiple_parts": false,
+      "parts_count": 1,
+      "tags": [],
+      "status": "auto-added"
+    }
+  },
+  "sample_exercises": [
+    "MAT_A9FUNCOE_1EX_DMX_001",
+    "MAT_A9FUNCRES_1EXP_002",
+    "MAT_A9FUNCRE_1EXP_DME_001"
+  ]
+}

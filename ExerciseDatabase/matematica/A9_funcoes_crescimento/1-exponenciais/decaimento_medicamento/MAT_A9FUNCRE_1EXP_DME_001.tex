@@ -1,0 +1,30 @@
+% meta:
+% id: MAT_A9FUNCRE_1EXP_DME_108
+% module: A9_funcoes_crescimento
+% concept: 1-exponenciais
+% concept_name: Funções Exponenciais
+% tipo: decaimento_medicamento
+% tipo_nome: Decaimento de Medicamento
+% difficulty: 3
+% tags: decaimento_exponencial,medicamento,exponenciais,modelacao
+% author: sistema
+\exercicio{
+A concentração de um medicamento: $C(t)=480\times 0,987^t$ (mg/cm$^3$) após $t$ minutos.
+\begin{enumerate}
+  \item Esboça o gráfico e descreve a tendência.
+    \begin{center}
+  \begin{tikzpicture}[scale=0.8]
+    \draw[->] (-0.5,0) -- (10,0) node[right] {$t$};
+    \draw[->] (0,-0.5) -- (0,6) node[above] {$C(t)$};
+    \foreach \x in {1,2,...,9}
+      \draw (\x,0.1) -- (\x,-0.1);
+    \foreach \y in {1,2,...,5}
+      \draw (0.1,\y) -- (-0.1,\y);
+  \end{tikzpicture}
+  \end{center}
+  \item Interpreta três pontos do gráfico.
+  \vspace{3cm}
+  \item Cria e resolve um novo problema de decaimento exponencial.
+  \vspace{3cm}
+\end{enumerate}
+}

@@ -1,0 +1,288 @@
+{
+  "generated_at": "2025-12-03T10:33:21",
+  "root": "C:\\Users\\diogo\\projects\\To_Exercises",
+  "moved": [
+    {
+      "category": "sebenta",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\1-generalidades_funcoes\\build\\sebenta_1-generalidades_funcoes.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\sebentas\\sebenta_1-generalidades_funcoes.tex",
+      "sha256": "4bf2c37a4ddc7752530451e30bedaf36feb009511382b2eac2edac9e3f7cae90"
+    },
+    {
+      "category": "solution",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\2-funcoes_polinomiais\\MAT_P4FUNCOE_2FUN_002_solution.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\solutions\\MAT_P4FUNCOE_2FUN_002_solution.tex",
+      "sha256": "15378e1d4549f4e91e790acece69c19736bcaf0e2fc752a5d0423b3c9df40684"
+    },
+    {
+      "category": "sebenta",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\2-funcoes_polinomiais\\build\\sebenta_2-funcoes_polinomiais.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\sebentas\\sebenta_2-funcoes_polinomiais.tex",
+      "sha256": "9a3e0bd4707bc08b168ad8c1e01f4f5a4be0499b536f35e840105812554805a1"
+    },
+    {
+      "category": "sebenta",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\3-funcoes_polinomiais_grau_nao_superior_3\\build\\sebenta_3-funcoes_polinomiais_grau_nao_superior_3.fdb_latexmk",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\sebentas\\sebenta_3-funcoes_polinomiais_grau_nao_superior_3.fdb_latexmk",
+      "sha256": "dfef0268dd6d84086101d92eaa4071c5b388985fef35f723ff8cc193f2269e63"
+    },
+    {
+      "category": "sebenta",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\3-funcoes_polinomiais_grau_nao_superior_3\\build\\sebenta_3-funcoes_polinomiais_grau_nao_superior_3.fls",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\sebentas\\sebenta_3-funcoes_polinomiais_grau_nao_superior_3.fls",
+      "sha256": "ebe4a7b9878c15dfc09d70d241492037333653ffe68fcc5561d96c35cb27945d"
+    },
+    {
+      "category": "sebenta",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\3-funcoes_polinomiais_grau_nao_superior_3\\build\\sebenta_3-funcoes_polinomiais_grau_nao_superior_3.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\sebentas\\sebenta_3-funcoes_polinomiais_grau_nao_superior_3.tex",
+      "sha256": "49487b254d15d956a882069c124cf2bad1146f1e280d7b9b714a0a1e8aca77e7"
+    },
+    {
+      "category": "solution",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_4FX_DAX_006_solution.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\solutions\\MAT_P4FUNCOE_4FX_DAX_006_solution.tex",
+      "sha256": "8654d2ccd659938bf39505f0d719128d694367315bd048cfa02c7c1955f480d1"
+    },
+    {
+      "category": "solution",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_4FX_DAX_019_solution.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\solutions\\MAT_P4FUNCOE_4FX_DAX_019_solution.tex",
+      "sha256": "5e9008ae2d193354d25c999e252f73634a00393e9be1e2dbd5cbdb29ad3b8cf3"
+    },
+    {
+      "category": "solution",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_4FX_DAX_023_solution.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\solutions\\MAT_P4FUNCOE_4FX_DAX_023_solution.tex",
+      "sha256": "e8c3a930b2cb477554460e2b9f5838cc82c8784ce0b64378faae787c74e1468a"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_FUNC_DA_001.agentfix.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_FUNC_DA_001.agentfix.tex",
+      "sha256": "6a3994ddfdf966252af78e18417dd144bea7639a4238576e8c24c367155aa26f"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_FUNC_DA_001.bak_agent_20251127T121826Z.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_FUNC_DA_001.bak_agent_20251127T121826Z.tex",
+      "sha256": "93e4c3d19e43483f6dd1a3a4143d2d56c4cdd2565c186ffcd46d0034205698a0"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_FUNC_DA_002.agentfix.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_FUNC_DA_002.agentfix.tex",
+      "sha256": "7a14155d5d140906a39d7df8c59a1f039f39d66dd67bf28e1524e4c026ea1bb2"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_FUNC_DA_002.bak_agent_20251127T121826Z.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_FUNC_DA_002.bak_agent_20251127T121826Z.tex",
+      "sha256": "d070d4ce089dbfb77e65975db84541d58bd56a3e84bea6b2f87ac9ea4b521dc5"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_FUNC_DA_003.agentfix.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_FUNC_DA_003.agentfix.tex",
+      "sha256": "69a13fcee2bdec5a1e71904ab3f2336026fb3491f4c152f90d03bf4ab4d0047e"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_FUNC_DA_003.bak_agent_20251127T121826Z.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_FUNC_DA_003.bak_agent_20251127T121826Z.tex",
+      "sha256": "019068d0f61ba16e895fbd4bb5eb0d65ffa924812b1b1cb7538becb3c05b6ffe"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_001.agentfix.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_4FIN_ANA_001.agentfix.tex",
+      "sha256": "81d4dc260b31402d53be162180759337062d66f13338f52ff725d3d5c028e4ad"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_001.bak_agent_20251127T121826Z.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_4FIN_ANA_001.bak_agent_20251127T121826Z.tex",
+      "sha256": "bc87253aae0ad5772243eb3e7c90c58e44ccc26a5e40caf51f4135b420c296dd"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_002.agentfix.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_4FIN_ANA_002.agentfix.tex",
+      "sha256": "09e7514666f379dd4037388e2414834ce44ceb8c21f4311b054d798df61a9d7d"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_002.bak_agent_20251127T121826Z.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_4FIN_ANA_002.bak_agent_20251127T121826Z.tex",
+      "sha256": "09e7514666f379dd4037388e2414834ce44ceb8c21f4311b054d798df61a9d7d"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_003.agentfix.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_4FIN_ANA_003.agentfix.tex",
+      "sha256": "be21e004501dabbee91c1e19dfa2adb64dc8be907fb688f3c5b2563a79e0ef47"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_003.bak_agent_20251127T121826Z.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_4FIN_ANA_003.bak_agent_20251127T121826Z.tex",
+      "sha256": "be21e004501dabbee91c1e19dfa2adb64dc8be907fb688f3c5b2563a79e0ef47"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_004.agentfix.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_4FIN_ANA_004.agentfix.tex",
+      "sha256": "bf2f4ecd3b192c6a4fe281f1672e567184d2d5a6f5c2ef172566f8de1a7e7c6d"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_004.bak_agent_20251127T121826Z.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_4FIN_ANA_004.bak_agent_20251127T121826Z.tex",
+      "sha256": "bf2f4ecd3b192c6a4fe281f1672e567184d2d5a6f5c2ef172566f8de1a7e7c6d"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_005.agentfix.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_4FIN_ANA_005.agentfix.tex",
+      "sha256": "fe928efce7ca0e7f5600e67ec0f18a3bd355c6068e613d8c27711caf15e3ce59"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_005.bak_agent_20251127T121826Z.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_4FIN_ANA_005.bak_agent_20251127T121826Z.tex",
+      "sha256": "fe928efce7ca0e7f5600e67ec0f18a3bd355c6068e613d8c27711caf15e3ce59"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_006.agentfix.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_4FIN_ANA_006.agentfix.tex",
+      "sha256": "cdea0bad0d4caa9e0ece36222def2ccefef1aad55a8721d8c2dbc99373a24c12"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\MAT_P4FUNCOE_4FIN_ANA_006.bak_agent_20251127T121826Z.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_4FIN_ANA_006.bak_agent_20251127T121826Z.tex",
+      "sha256": "cdea0bad0d4caa9e0ece36222def2ccefef1aad55a8721d8c2dbc99373a24c12"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_grafica\\MAT_P4FUNCOE_4FIN_GRA_001.agentfix.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_4FIN_GRA_001.agentfix.tex",
+      "sha256": "135e9bf981db1595f229fd919e0af8b4cee2ce8ed54973add3a6ec2e5575e8f2"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_grafica\\MAT_P4FUNCOE_4FIN_GRA_001.bak_agent_20251127T121826Z.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_4FIN_GRA_001.bak_agent_20251127T121826Z.tex",
+      "sha256": "6fa5f9be9123cd144d7c56834e71c0892e1489d0edf7022a1888a8a82b8a4f66"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_grafica\\MAT_P4FUNCOE_4FIN_GRA_002.agentfix.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_4FIN_GRA_002.agentfix.tex",
+      "sha256": "32be4dcf473c483cae0f33ae8f04f04eeb0b55464f88d8e0eaf002e9be874be3"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_grafica\\MAT_P4FUNCOE_4FIN_GRA_002.bak_agent_20251127T121826Z.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_4FIN_GRA_002.bak_agent_20251127T121826Z.tex",
+      "sha256": "1627cbc5adfdbeea493a6aac2f2fd98aa79ab34821e3eb6325cde761b683f207"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_grafica\\MAT_P4FUNCOE_4FIN_GRA_003.agentfix.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_4FIN_GRA_003.agentfix.tex",
+      "sha256": "9b93c971ff0cf3c0daece7e34e463215dc00431914084ad4717113c9fee96792"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_grafica\\MAT_P4FUNCOE_4FIN_GRA_003.bak_agent_20251127T121826Z.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_4FIN_GRA_003.bak_agent_20251127T121826Z.tex",
+      "sha256": "eb7ae15826c72e3f5ec3f0d361d5513052707ad92526b7f89f3b7abb79aa8714"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_grafica\\MAT_P4FUNCOE_4FIN_GRA_004.agentfix.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_4FIN_GRA_004.agentfix.tex",
+      "sha256": "4447765a42b5fa7aa9c6fa154852c3049323875658f6abe1af3c12261c4f5d33"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_grafica\\MAT_P4FUNCOE_4FIN_GRA_004.bak_agent_20251127T121826Z.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_4FIN_GRA_004.bak_agent_20251127T121826Z.tex",
+      "sha256": "f26c6fcd1f041e7d4435985836e1a4f065fc4f71dc6b15545446d29794724358"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_grafica\\MAT_P4FUNCOE_4FIN_GRA_005.agentfix.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_4FIN_GRA_005.agentfix.tex",
+      "sha256": "f363bdd3d4747967978788c7bbb21e07c55d0416ad71f7994f38d5c27fe951ff"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_grafica\\MAT_P4FUNCOE_4FIN_GRA_005.bak_agent_20251127T121826Z.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_4FIN_GRA_005.bak_agent_20251127T121826Z.tex",
+      "sha256": "045825f9a79864db6d2a3fd2cf3e4c9387c8f3cf156e47b092b35b12f86b5e1c"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\teste_reta_horizontal\\MAT_P4FUNCOE_4FIN_TRH_001.agentfix.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_4FIN_TRH_001.agentfix.tex",
+      "sha256": "16a227e9d9e606cc8bafaa34bdb1d910fa18ecc8603beb2d07a684d60f730212"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\teste_reta_horizontal\\MAT_P4FUNCOE_4FIN_TRH_001.bak_agent_20251127T121826Z.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_4FIN_TRH_001.bak_agent_20251127T121826Z.tex",
+      "sha256": "3635cc6589cc81f0af9e714bc2a2f1f5771c9ff5449e3a17a1ac088dabec1ab7"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\teste_reta_horizontal\\MAT_P4FUNCOE_4FIN_TRH_002.agentfix.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_4FIN_TRH_002.agentfix.tex",
+      "sha256": "be3b75b846733c8860e06eb0cf26155f96cee9bfc2efae48636a4ae246e86af8"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\teste_reta_horizontal\\MAT_P4FUNCOE_4FIN_TRH_002.bak_agent_20251127T121826Z.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_4FIN_TRH_002.bak_agent_20251127T121826Z.tex",
+      "sha256": "aa0c85f66c5b89e6505a43c023f060c4f1fe4e274312dbdfe90812c05f06c8e8"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\teste_reta_horizontal\\MAT_P4FUNCOE_4FIN_TRH_003.agentfix.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_4FIN_TRH_003.agentfix.tex",
+      "sha256": "e8f7f0e442071b05871baaba3f377443562b8cf09023bac15789115d18f807f6"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\teste_reta_horizontal\\MAT_P4FUNCOE_4FIN_TRH_003.bak_agent_20251127T121826Z.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_4FIN_TRH_003.bak_agent_20251127T121826Z.tex",
+      "sha256": "29a689d36b8afc38de985d4fc39631e3d84982157bbb9c7a352971217fea5dee"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\teste_reta_horizontal\\MAT_P4FUNCOE_4FIN_TRH_004.agentfix.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_4FIN_TRH_004.agentfix.tex",
+      "sha256": "0bf3d69b349baaf8aa16db9fa20c94991e7c9a47d652cbbf698c18230f9bc0a6"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\teste_reta_horizontal\\MAT_P4FUNCOE_4FIN_TRH_004.bak_agent_20251127T121826Z.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_4FIN_TRH_004.bak_agent_20251127T121826Z.tex",
+      "sha256": "5946e3e632ec8ebd06263f91514d2ed802f75bd5ea11d7c776e75cd8b7867ead"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\teste_reta_horizontal\\MAT_P4FUNCOE_4FIN_TRH_005.agentfix.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_4FIN_TRH_005.agentfix.tex",
+      "sha256": "92a05d3c918ef629497c360f4edf2c41df1a0ffa23a834f9b5f130f6ff2e2496"
+    },
+    {
+      "category": "backup",
+      "orig_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\teste_reta_horizontal\\MAT_P4FUNCOE_4FIN_TRH_005.bak_agent_20251127T121826Z.tex",
+      "new_path": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\_support\\backups\\MAT_P4FUNCOE_4FIN_TRH_005.bak_agent_20251127T121826Z.tex",
+      "sha256": "2ce7852b53dad1639cee30cf4008adaef35c46c2b2b88f9cfdbd3772ab54bb78"
+    }
+  ]
+}

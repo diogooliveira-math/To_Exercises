@@ -1,0 +1,86 @@
+{
+  "id": "MAT_A9FUNCRE_1EXP_DPR_001",
+  "classification": {
+    "discipline": "matematica",
+    "module": "A9_funcoes_crescimento",
+    "module_name": "Módulo A9 - Funções e Crescimento",
+    "concept": "1-exponenciais",
+    "concept_name": "Funções Exponenciais",
+    "tipo": "depreciacao_valor",
+    "tipo_nome": "Depreciação de Valor",
+    "tags": [
+      "decaimento_exponencial",
+      "valor_comercial",
+      "financeiro",
+      "exponenciais",
+      "depreciacao"
+    ],
+    "difficulty": 3,
+    "difficulty_label": "Médio"
+  },
+  "metadata": {
+    "type": "desenvolvimento",
+    "points": 15,
+    "estimated_time_minutes": 30,
+    "source": "projeto_investigacao",
+    "status": "active",
+    "bloom_level": "aplicacao",
+    "pedagogical_notes": "Modelação de depreciação de valor comercial com interpretação percentual"
+  },
+  "content": {
+    "parts": 4,
+    "requires_graph": true,
+    "requires_calculation": true,
+    "context": "real_world",
+    "mathematical_model": "f(t)=20000×(0.82)^t"
+  },
+  "history": {
+    "created_at": "2025-11-19T11:15:00",
+    "updated_at": "2025-11-19T11:15:00",
+    "version": 1,
+    "author": "sistema"
+  },
+  "exercicios": {
+    "MAT_A9FUNCOE_1EX_DVX_001": {
+      "created": "2025-12-02",
+      "modified": "2025-12-02",
+      "author": "auto-repair",
+      "difficulty": null,
+      "points": 0,
+      "time_estimate_minutes": 0,
+      "has_multiple_parts": false,
+      "parts_count": 1,
+      "tags": [],
+      "status": "auto-added"
+    },
+    "MAT_A9FUNCRES_1EXP_004": {
+      "created": "2025-12-02",
+      "modified": "2025-12-02",
+      "author": "auto-repair",
+      "difficulty": null,
+      "points": 0,
+      "time_estimate_minutes": 0,
+      "has_multiple_parts": false,
+      "parts_count": 1,
+      "tags": [],
+      "status": "auto-added"
+    },
+    "MAT_A9FUNCRE_1EXP_DPR_001": {
+      "created": "2025-12-02",
+      "modified": "2025-12-02",
+      "author": "auto-repair",
+      "difficulty": null,
+      "points": 0,
+      "time_estimate_minutes": 0,
+      "has_multiple_parts": false,
+      "parts_count": 1,
+      "tags": [],
+      "status": "auto-added"
+    }
+  },
+  "sample_exercises": [
+    "MAT_A9FUNCOE_1EX_DVX_001",
+    "MAT_A9FUNCRES_1EXP_004",
+    "MAT_A9FUNCRE_1EXP_DPR_001"
+  ]
+}

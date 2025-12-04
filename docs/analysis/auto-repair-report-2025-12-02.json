@@ -1,0 +1,1059 @@
+{
+  "generated_at": "2025-12-02T22:34:11.737460",
+  "modified_metadata_files": [
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\A9_funcoes_crescimento\\0-revisoes\\calculo_funcoes\\metadata.json",
+      "added_exercises": [
+        "MAT_A9FUNCRES_0REV_002"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\A9_funcoes_crescimento\\0-revisoes\\conceito_funcao\\MAT_A9FUNCRE_0REV_CFU_001.json",
+      "added_exercises": [
+        "MAT_A9FUNCOE_0RX_CFX_001",
+        "MAT_A9FUNCOE_0RX_CFX_002",
+        "MAT_A9FUNCOE_0RX_CFX_003",
+        "MAT_A9FUNCOE_0RX_CFX_004",
+        "MAT_A9FUNCRES_0REV_001",
+        "MAT_A9FUNCRE_0REV_CFU_001"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\A9_funcoes_crescimento\\0-revisoes\\conceito_funcao\\metadata.json",
+      "added_exercises": [
+        "MAT_A9FUNCRES_0REV_001",
+        "MAT_A9FUNCRE_0REV_CFU_001"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\A9_funcoes_crescimento\\1-exponenciais\\crescimento_bacterias\\MAT_A9FUNCRE_1EXP_CBA_001.json",
+      "added_exercises": [
+        "MAT_A9FUNCRES_1EXP_003",
+        "MAT_A9FUNCRES_1EXP_005",
+        "MAT_A9FUNCRE_1EXP_CBA_001",
+        "MAT_A9FUNCRE_1EXP_CBA_002"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\A9_funcoes_crescimento\\1-exponenciais\\crescimento_bacterias\\MAT_A9FUNCRE_1EXP_CBA_002.json",
+      "added_exercises": [
+        "MAT_A9FUNCRES_1EXP_003",
+        "MAT_A9FUNCRES_1EXP_005",
+        "MAT_A9FUNCRE_1EXP_CBA_001",
+        "MAT_A9FUNCRE_1EXP_CBA_002"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\A9_funcoes_crescimento\\1-exponenciais\\crescimento_bacterias\\metadata.json",
+      "added_exercises": [
+        "MAT_A9FUNCRES_1EXP_003",
+        "MAT_A9FUNCRES_1EXP_005"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\A9_funcoes_crescimento\\1-exponenciais\\crescimento_populacional\\MAT_A9FUNCRE_1EXP_CPO_001.json",
+      "added_exercises": [
+        "MAT_A9FUNCRES_1EXP_001",
+        "MAT_A9FUNCRE_1EXP_CPO_001"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\A9_funcoes_crescimento\\1-exponenciais\\crescimento_populacional\\metadata.json",
+      "added_exercises": [
+        "MAT_A9FUNCRES_1EXP_001"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\A9_funcoes_crescimento\\1-exponenciais\\decaimento_medicamento\\MAT_A9FUNCRE_1EXP_DME_001.json",
+      "added_exercises": [
+        "MAT_A9FUNCOE_1EX_DMX_001",
+        "MAT_A9FUNCRES_1EXP_002",
+        "MAT_A9FUNCRE_1EXP_DME_001"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\A9_funcoes_crescimento\\1-exponenciais\\decaimento_medicamento\\metadata.json",
+      "added_exercises": [
+        "MAT_A9FUNCRES_1EXP_002",
+        "MAT_A9FUNCRE_1EXP_DME_001"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\A9_funcoes_crescimento\\1-exponenciais\\depreciacao_valor\\MAT_A9FUNCRE_1EXP_DPR_001.json",
+      "added_exercises": [
+        "MAT_A9FUNCOE_1EX_DVX_001",
+        "MAT_A9FUNCRES_1EXP_004",
+        "MAT_A9FUNCRE_1EXP_DPR_001"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\A9_funcoes_crescimento\\1-exponenciais\\depreciacao_valor\\metadata.json",
+      "added_exercises": [
+        "MAT_A9FUNCRES_1EXP_004",
+        "MAT_A9FUNCRE_1EXP_DPR_001"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P1_modelos_matematicos_para_a_cidadania\\eleicoes\\analise_tabelas_eleitorais\\metadata.json",
+      "added_exercises": [
+        "MAT_P1MODELO_ELE_PERC_001",
+        "MAT_P1MODELO_ELE_TAB1_001",
+        "MAT_P1MODELO_ELE_TAB2_001",
+        "MAT_P1MODELO_ELE_TAB3_001"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P1_modelos_matematicos_para_a_cidadania\\eleicoes\\compreensao_termos\\metadata.json",
+      "added_exercises": [
+        "MAT_P1MODELO_ELE_MATCH_001"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P1_modelos_matematicos_para_a_cidadania\\financas_pessoais\\calculo_percentagens_financeiras\\MAT_P1MODELO_FINA_CAL_001.json",
+      "added_exercises": [
+        "MAT_P1MODELO_FINA_CAL_001",
+        "MAT_P1MODELO_FIN_CALC_001"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P1_modelos_matematicos_para_a_cidadania\\financas_pessoais\\calculo_percentagens_financeiras\\MAT_P1MODELO_FIN_CALC_001.json",
+      "added_exercises": [
+        "MAT_P1MODELO_FINA_CAL_001",
+        "MAT_P1MODELO_FIN_CALC_001"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P1_modelos_matematicos_para_a_cidadania\\financas_pessoais\\calculo_percentagens_financeiras\\metadata.json",
+      "added_exercises": [
+        "MAT_P1MODELO_FIN_CALC_001"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P1_modelos_matematicos_para_a_cidadania\\percentagens\\calculo_percentagens\\metadata.json",
+      "added_exercises": [
+        "MAT_P1MODELO_PERC_CALC_001"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P2_estatistica\\0-revisoes\\desenvolvimento\\metadata.json",
+      "added_exercises": [
+        "MAT_P2ESTATI_REVI_D_999"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P2_estatistica\\1-Medicoes_basicas\\estatistica_na_vida\\metadata.json",
+      "added_exercises": [
+        "MAT_P2ESTATI_1MED_ENV_001",
+        "MAT_P2ESTATI_1MED_ENV_002"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P2_estatistica\\1-Medicoes_basicas\\estatistica_poupanca\\metadata.json",
+      "added_exercises": [
+        "MAT_P2ESTATI_1MED_EPO_001",
+        "MAT_P2ESTATI_1MED_EPO_002"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P2_estatistica\\1-Medicoes_basicas\\estatistica_pura\\metadata.json",
+      "added_exercises": [
+        "MAT_P2ESTATI_1MED_EPU_001",
+        "MAT_P2ESTATI_1MED_EPU_002"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P3_trigonometria\\2-triangulos_isosceles\\metadata.json",
+      "added_exercises": [
+        "MAT_P3TRIGON_2TX_DXX_001"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\1-generalidades_funcoes\\MAT_P4FUNCOE_1GEN_001.json",
+      "added_exercises": [
+        "MAT_P4FUNCOE_1GEN_001",
+        "MAT_P4FUNCOE_1GX_ACA_001",
+        "MAT_P4FUNCOE_1GX_ACX_001",
+        "MAT_P4FUNCOE_1GX_ACX_002",
+        "MAT_P4FUNCOE_1GFUN_AFC_001",
+        "MAT_P4FUNCOE_1GX_ACD_001",
+        "MAT_P4FUNCOE_1GX_ACM_001",
+        "MAT_P4FUNCOE_1GX_ACM_002",
+        "MAT_P4FUNCOE_1GX_ACR_001",
+        "MAT_P4FUNCOE_1GEN_AR_001",
+        "MAT_P4FUNCOE_1GX_ARX_001",
+        "MAT_P4FUNCOE_1GX_ARX_002",
+        "MAT_P4FUNCOE_1GX_ARX_004",
+        "MAT_P4FUNCOE_1GX_ARX_005",
+        "MAT_P4FUNCOE_1GX_AVF_001",
+        "MAT_P4FUNCOE_1GX_AAF_001",
+        "MAT_P4FUNCOE_1GX_ICX_001",
+        "MAT_P4FUNCOE_1GX_ICX_002",
+        "MAT_P4FUNCOE_1GX_ICX_003",
+        "MAT_P4FUNCOE_1GX_ICX_004",
+        "MAT_P4FUNCOE_1GX_ICX_005",
+        "MAT_P4FUNCOE_1GX_ICX_006",
+        "MAT_P4FUNCOE_1GX_ICX_007",
+        "MAT_P4FUNCOE_1GX_ICX_008",
+        "MAT_P4FUNCOE_1GX_ICX_009",
+        "MAT_P4FUNCOE_1GX_ICX_010",
+        "MAT_P4FUNCOE_1GX_ICX_011",
+        "MAT_P4FUNCOE_1GX_ICX_012",
+        "MAT_P4FUNCOE_1GX_ICX_013",
+        "MAT_P4FUNCOE_1GX_ICX_014",
+        "MAT_P4FUNCOE_1GX_ICX_015",
+        "MAT_P4FUNCOE_1GX_ICX_016",
+        "MAT_P4FUNCOE_1GX_ICX_017",
+        "MAT_P4FUNCOE_1GX_ICX_018",
+        "MAT_P4FUNCOE_1GX_ICX_019",
+        "MAT_P4FUNCOE_1GX_ICX_020",
+        "MAT_P4FUNCOE_1GX_ICX_021",
+        "MAT_P4FUNCOE_1GX_ICX_022",
+        "MAT_P4FUNCOE_1GX_ICX_023",
+        "MAT_P4FUNCOE_1GX_ICX_024",
+        "MAT_P4FUNCOE_1GX_ICX_025",
+        "MAT_P4FUNCOE_1GX_ICX_026",
+        "MAT_P4FUNCOE_1GX_ICX_027",
+        "MAT_P4FUNCOE_1GX_ICX_028",
+        "MAT_P4FUNCOE_1GX_ICX_029",
+        "MAT_P4FUNCOE_1GX_ICX_030",
+        "MAT_P4FUNCOE_1GX_ICX_031",
+        "MAT_P4FUNCOE_1GX_ICX_032",
+        "MAT_P4FUNCOE_1GX_ICX_033",
+        "MAT_P4FUNCOE_1GX_ICX_034",
+        "MAT_P4FUNCOE_1GX_ICX_035",
+        "MAT_P4FUNCOE_1GX_ICX_036",
+        "MAT_P4FUNCOE_1GX_ICX_037",
+        "MAT_P4FUNCOE_1GX_ICX_038",
+        "MAT_P4FUNCOE_1GX_ICX_039",
+        "MAT_P4FUNCOE_1GX_ICX_040",
+        "MAT_P4FUNCOE_1GX_ICX_041",
+        "MAT_P4FUNCOE_1GX_ICX_042",
+        "MAT_P4FUNCOE_1GX_ICX_043",
+        "MAT_P4FUNCOE_1GX_ICX_044",
+        "MAT_P4FUNCOE_1GX_ICX_045",
+        "MAT_P4FUNCOE_1GX_ICX_046",
+        "MAT_P4FUNCOE_1GX_ICX_047",
+        "MAT_P4FUNCOE_1GX_JCM_001",
+        "MAT_P4FUNCOE_1GX_RVX_001",
+        "MAT_P4FUNCOE_1GX_RVX_002",
+        "MAT_P4FUNCOE_1GX_RVX_003",
+        "MAT_P4FUNCOE_1GX_RVX_004",
+        "MAT_P4FUNCOE_1GX_RVX_005",
+        "MAT_P4FUNCOE_1GX_RVX_006",
+        "MAT_P4FUNCOE_1GX_RVX_007",
+        "MAT_P4FUNCOE_1GX_RCA_001",
+        "MAT_P4FUNCOE_1GX_RCX_001",
+        "MAT_P4FUNCOE_1GX_RCE_001",
+        "MAT_P4FUNCOE_1GX_RCE_002",
+        "MAT_P4FUNCOE_1GX_RCE_003",
+        "MAT_P4FUNCOE_1GX_TLX_001",
+        "MAT_P4FUNCOE_1GX_TLX_002",
+        "MAT_P4FUNCOE_1GX_TLX_003",
+        "MAT_P4FUNCOE_1GX_TLX_004",
+        "MAT_P4FUNCOE_1GX_TLX_005",
+        "MAT_P4FUNCOE_1GX_TLX_006",
+        "MAT_P4FUNCOE_1GX_TLX_007",
+        "MAT_P4FUNCOE_1GX_TLX_008",
+        "MAT_P4FUNCOE_1GX_TLX_009",
+        "MAT_P4FUNCOE_1GX_TLX_010",
+        "GEN_20251202_163114",
+        "MAT_P4FUNCOE_1GX_TWI_001",
+        "MAT_P4FUNCOE_1GX_TNX_001"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\1-generalidades_funcoes\\metadata.json",
+      "added_exercises": [
+        "MAT_P4FUNCOE_1GEN_001",
+        "MAT_P4FUNCOE_1GX_ACA_001",
+        "MAT_P4FUNCOE_1GX_ACX_001",
+        "MAT_P4FUNCOE_1GX_ACX_002",
+        "MAT_P4FUNCOE_1GFUN_AFC_001",
+        "MAT_P4FUNCOE_1GX_ACD_001",
+        "MAT_P4FUNCOE_1GX_ACM_001",
+        "MAT_P4FUNCOE_1GX_ACM_002",
+        "MAT_P4FUNCOE_1GX_ACR_001",
+        "MAT_P4FUNCOE_1GEN_AR_001",
+        "MAT_P4FUNCOE_1GX_ARX_001",
+        "MAT_P4FUNCOE_1GX_ARX_002",
+        "MAT_P4FUNCOE_1GX_ARX_004",
+        "MAT_P4FUNCOE_1GX_ARX_005",
+        "MAT_P4FUNCOE_1GX_AVF_001",
+        "MAT_P4FUNCOE_1GX_AAF_001",
+        "MAT_P4FUNCOE_1GX_ICX_001",
+        "MAT_P4FUNCOE_1GX_ICX_002",
+        "MAT_P4FUNCOE_1GX_ICX_003",
+        "MAT_P4FUNCOE_1GX_ICX_004",
+        "MAT_P4FUNCOE_1GX_ICX_005",
+        "MAT_P4FUNCOE_1GX_ICX_006",
+        "MAT_P4FUNCOE_1GX_ICX_007",
+        "MAT_P4FUNCOE_1GX_ICX_008",
+        "MAT_P4FUNCOE_1GX_ICX_009",
+        "MAT_P4FUNCOE_1GX_ICX_010",
+        "MAT_P4FUNCOE_1GX_ICX_011",
+        "MAT_P4FUNCOE_1GX_ICX_012",
+        "MAT_P4FUNCOE_1GX_ICX_013",
+        "MAT_P4FUNCOE_1GX_ICX_014",
+        "MAT_P4FUNCOE_1GX_ICX_015",
+        "MAT_P4FUNCOE_1GX_ICX_016",
+        "MAT_P4FUNCOE_1GX_ICX_017",
+        "MAT_P4FUNCOE_1GX_ICX_018",
+        "MAT_P4FUNCOE_1GX_ICX_019",
+        "MAT_P4FUNCOE_1GX_ICX_020",
+        "MAT_P4FUNCOE_1GX_ICX_021",
+        "MAT_P4FUNCOE_1GX_ICX_022",
+        "MAT_P4FUNCOE_1GX_ICX_023",
+        "MAT_P4FUNCOE_1GX_ICX_024",
+        "MAT_P4FUNCOE_1GX_ICX_025",
+        "MAT_P4FUNCOE_1GX_ICX_026",
+        "MAT_P4FUNCOE_1GX_ICX_027",
+        "MAT_P4FUNCOE_1GX_ICX_028",
+        "MAT_P4FUNCOE_1GX_ICX_029",
+        "MAT_P4FUNCOE_1GX_ICX_030",
+        "MAT_P4FUNCOE_1GX_ICX_031",
+        "MAT_P4FUNCOE_1GX_ICX_032",
+        "MAT_P4FUNCOE_1GX_ICX_033",
+        "MAT_P4FUNCOE_1GX_ICX_034",
+        "MAT_P4FUNCOE_1GX_ICX_035",
+        "MAT_P4FUNCOE_1GX_ICX_036",
+        "MAT_P4FUNCOE_1GX_ICX_037",
+        "MAT_P4FUNCOE_1GX_ICX_038",
+        "MAT_P4FUNCOE_1GX_ICX_039",
+        "MAT_P4FUNCOE_1GX_ICX_040",
+        "MAT_P4FUNCOE_1GX_ICX_041",
+        "MAT_P4FUNCOE_1GX_ICX_042",
+        "MAT_P4FUNCOE_1GX_ICX_043",
+        "MAT_P4FUNCOE_1GX_ICX_044",
+        "MAT_P4FUNCOE_1GX_ICX_045",
+        "MAT_P4FUNCOE_1GX_ICX_046",
+        "MAT_P4FUNCOE_1GX_ICX_047",
+        "MAT_P4FUNCOE_1GX_JCM_001",
+        "MAT_P4FUNCOE_1GX_RVX_001",
+        "MAT_P4FUNCOE_1GX_RVX_002",
+        "MAT_P4FUNCOE_1GX_RVX_003",
+        "MAT_P4FUNCOE_1GX_RVX_004",
+        "MAT_P4FUNCOE_1GX_RVX_005",
+        "MAT_P4FUNCOE_1GX_RVX_006",
+        "MAT_P4FUNCOE_1GX_RVX_007",
+        "MAT_P4FUNCOE_1GX_RCA_001",
+        "MAT_P4FUNCOE_1GX_RCX_001",
+        "MAT_P4FUNCOE_1GX_RCE_001",
+        "MAT_P4FUNCOE_1GX_RCE_002",
+        "MAT_P4FUNCOE_1GX_RCE_003",
+        "MAT_P4FUNCOE_1GX_TLX_001",
+        "MAT_P4FUNCOE_1GX_TLX_002",
+        "MAT_P4FUNCOE_1GX_TLX_003",
+        "MAT_P4FUNCOE_1GX_TLX_004",
+        "MAT_P4FUNCOE_1GX_TLX_005",
+        "MAT_P4FUNCOE_1GX_TLX_006",
+        "MAT_P4FUNCOE_1GX_TLX_007",
+        "MAT_P4FUNCOE_1GX_TLX_008",
+        "MAT_P4FUNCOE_1GX_TLX_009",
+        "MAT_P4FUNCOE_1GX_TLX_010",
+        "GEN_20251202_163114",
+        "MAT_P4FUNCOE_1GX_TWI_001",
+        "MAT_P4FUNCOE_1GX_TNX_001"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\1-generalidades_funcoes\\afirmacoes_causais\\MAT_P4FUNCOE_1GFUN_AFC_001.json",
+      "added_exercises": [
+        "MAT_P4FUNCOE_1GFUN_AFC_001"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\1-generalidades_funcoes\\afirmacoes_relacionais\\MAT_P4FUNCOE_1GEN_AR_001.json",
+      "added_exercises": [
+        "MAT_P4FUNCOE_1GEN_AR_001",
+        "MAT_P4FUNCOE_1GX_ARX_001",
+        "MAT_P4FUNCOE_1GX_ARX_002",
+        "MAT_P4FUNCOE_1GX_ARX_004",
+        "MAT_P4FUNCOE_1GX_ARX_005"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\1-generalidades_funcoes\\afirmacoes_relacionais\\MAT_P4FUNCOE_1GX_ARX_002.json",
+      "added_exercises": [
+        "MAT_P4FUNCOE_1GEN_AR_001",
+        "MAT_P4FUNCOE_1GX_ARX_001",
+        "MAT_P4FUNCOE_1GX_ARX_002",
+        "MAT_P4FUNCOE_1GX_ARX_004",
+        "MAT_P4FUNCOE_1GX_ARX_005"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\1-generalidades_funcoes\\afirmacoes_verdadeiro_falso\\MAT_P4FUNCOE_1GX_AVF_001.json",
+      "added_exercises": [
+        "MAT_P4FUNCOE_1GX_AVF_001"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\1-generalidades_funcoes\\afirmacoes_verdadeiro_falso\\metadata.json",
+      "added_exercises": [
+        "MAT_P4FUNCOE_1GX_AVF_001"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\1-generalidades_funcoes\\analise_afirmacoes\\MAT_P4FUNCOE_1GX_AAF_001.json",
+      "added_exercises": [
+        "MAT_P4FUNCOE_1GX_AAF_001"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\1-generalidades_funcoes\\juizo_causal\\MAT_P4FUNCOE_1GX_JCM_001.json",
+      "added_exercises": [
+        "MAT_P4FUNCOE_1GX_JCM_001"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\2-funcoes_polinomiais\\MAT_P4FUNCOE_2FUN_001.json",
+      "added_exercises": [
+        "MAT_P4FUNCOE_2FUN_001",
+        "MAT_P4FUNCOE_2FUN_002",
+        "MAT_P4FUNCOE_2FUN_002_solution"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\2-funcoes_polinomiais\\MAT_P4FUNCOE_2FUN_002.json",
+      "added_exercises": [
+        "MAT_P4FUNCOE_2FUN_001",
+        "MAT_P4FUNCOE_2FUN_002",
+        "MAT_P4FUNCOE_2FUN_002_solution"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\2-funcoes_polinomiais\\metadata.json",
+      "added_exercises": [
+        "MAT_P4FUNCOE_2FUN_001",
+        "MAT_P4FUNCOE_2FUN_002",
+        "MAT_P4FUNCOE_2FUN_002_solution"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\3-funcoes_polinomiais_grau_nao_superior_3\\MAT_P4FUNCOE_3FUN_001.json",
+      "added_exercises": [
+        "MAT_P4FUNCOE_3FUN_001"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\3-funcoes_polinomiais_grau_nao_superior_3\\metadata.json",
+      "added_exercises": [
+        "MAT_P4FUNCOE_3FUN_001"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\metadata.json",
+      "added_exercises": [
+        "MAT_P4FUNCOE_4FX_DAX_001",
+        "MAT_P4FUNCOE_4FX_DAX_002",
+        "MAT_P4FUNCOE_4FX_DAX_003",
+        "MAT_P4FUNCOE_4FX_DAX_004",
+        "MAT_P4FUNCOE_4FX_DAX_005",
+        "MAT_P4FUNCOE_4FX_DAX_006",
+        "MAT_P4FUNCOE_4FX_DAX_006_solution",
+        "MAT_P4FUNCOE_4FX_DAX_007",
+        "MAT_P4FUNCOE_4FX_DAX_018",
+        "MAT_P4FUNCOE_4FX_DAX_019",
+        "MAT_P4FUNCOE_4FX_DAX_019_solution",
+        "MAT_P4FUNCOE_4FX_DAX_021",
+        "MAT_P4FUNCOE_4FX_DAX_022",
+        "MAT_P4FUNCOE_4FX_DAX_023",
+        "MAT_P4FUNCOE_4FX_DAX_023_solution",
+        "MAT_P4FUNCOE_4FX_DAX_025",
+        "MAT_P4FUNCOE_FUNC_DA_001.agentfix",
+        "MAT_P4FUNCOE_FUNC_DA_001.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_FUNC_DA_001",
+        "MAT_P4FUNCOE_FUNC_DA_002.agentfix",
+        "MAT_P4FUNCOE_FUNC_DA_002.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_FUNC_DA_002",
+        "MAT_P4FUNCOE_FUNC_DA_003.agentfix",
+        "MAT_P4FUNCOE_FUNC_DA_003.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_FUNC_DA_003",
+        "MAT_P4FUNCOE_4FIN_ANA_001.agentfix",
+        "MAT_P4FUNCOE_4FIN_ANA_001.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_4FIN_ANA_001",
+        "MAT_P4FUNCOE_4FIN_ANA_002.agentfix",
+        "MAT_P4FUNCOE_4FIN_ANA_002.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_4FIN_ANA_002",
+        "MAT_P4FUNCOE_4FIN_ANA_003.agentfix",
+        "MAT_P4FUNCOE_4FIN_ANA_003.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_4FIN_ANA_003",
+        "MAT_P4FUNCOE_4FIN_ANA_004.agentfix",
+        "MAT_P4FUNCOE_4FIN_ANA_004.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_4FIN_ANA_004",
+        "MAT_P4FUNCOE_4FIN_ANA_005.agentfix",
+        "MAT_P4FUNCOE_4FIN_ANA_005.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_4FIN_ANA_005",
+        "MAT_P4FUNCOE_4FIN_ANA_006.agentfix",
+        "MAT_P4FUNCOE_4FIN_ANA_006.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_4FIN_ANA_006",
+        "MAT_P4FUNCOE_4FIN_GRA_001.agentfix",
+        "MAT_P4FUNCOE_4FIN_GRA_001.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_4FIN_GRA_001",
+        "MAT_P4FUNCOE_4FIN_GRA_002.agentfix",
+        "MAT_P4FUNCOE_4FIN_GRA_002.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_4FIN_GRA_002",
+        "MAT_P4FUNCOE_4FIN_GRA_003.agentfix",
+        "MAT_P4FUNCOE_4FIN_GRA_003.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_4FIN_GRA_003",
+        "MAT_P4FUNCOE_4FIN_GRA_004.agentfix",
+        "MAT_P4FUNCOE_4FIN_GRA_004.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_4FIN_GRA_004",
+        "MAT_P4FUNCOE_4FIN_GRA_005.agentfix",
+        "MAT_P4FUNCOE_4FIN_GRA_005.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_4FIN_GRA_005",
+        "MAT_P4FUNCOE_4FX_DGX_001",
+        "MAT_P4FUNCOE_4FIN_TRH_001.agentfix",
+        "MAT_P4FUNCOE_4FIN_TRH_001.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_4FIN_TRH_001",
+        "MAT_P4FUNCOE_4FIN_TRH_002.agentfix",
+        "MAT_P4FUNCOE_4FIN_TRH_002.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_4FIN_TRH_002",
+        "MAT_P4FUNCOE_4FIN_TRH_003.agentfix",
+        "MAT_P4FUNCOE_4FIN_TRH_003.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_4FIN_TRH_003",
+        "MAT_P4FUNCOE_4FIN_TRH_004.agentfix",
+        "MAT_P4FUNCOE_4FIN_TRH_004.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_4FIN_TRH_004",
+        "MAT_P4FUNCOE_4FIN_TRH_005.agentfix",
+        "MAT_P4FUNCOE_4FIN_TRH_005.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_4FIN_TRH_005",
+        "MAT_P4FUNCOE_4FX_TRH_006"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\metadata.json",
+      "added_exercises": [
+        "MAT_P4FUNCOE_4FX_DAX_001",
+        "MAT_P4FUNCOE_4FX_DAX_002",
+        "MAT_P4FUNCOE_4FX_DAX_003",
+        "MAT_P4FUNCOE_4FX_DAX_004",
+        "MAT_P4FUNCOE_4FX_DAX_005",
+        "MAT_P4FUNCOE_4FX_DAX_007",
+        "MAT_P4FUNCOE_4FX_DAX_021",
+        "MAT_P4FUNCOE_4FX_DAX_022",
+        "MAT_P4FUNCOE_FUNC_DA_001.agentfix",
+        "MAT_P4FUNCOE_FUNC_DA_001.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_FUNC_DA_001",
+        "MAT_P4FUNCOE_FUNC_DA_002.agentfix",
+        "MAT_P4FUNCOE_FUNC_DA_002.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_FUNC_DA_002",
+        "MAT_P4FUNCOE_FUNC_DA_003.agentfix",
+        "MAT_P4FUNCOE_FUNC_DA_003.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_FUNC_DA_003"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\_meta.json",
+      "added_exercises": [
+        "MAT_P4FUNCOE_4FX_DAX_001",
+        "MAT_P4FUNCOE_4FX_DAX_002",
+        "MAT_P4FUNCOE_4FX_DAX_003",
+        "MAT_P4FUNCOE_4FX_DAX_004",
+        "MAT_P4FUNCOE_4FX_DAX_005",
+        "MAT_P4FUNCOE_4FX_DAX_006",
+        "MAT_P4FUNCOE_4FX_DAX_006_solution",
+        "MAT_P4FUNCOE_4FX_DAX_007",
+        "MAT_P4FUNCOE_4FX_DAX_018",
+        "MAT_P4FUNCOE_4FX_DAX_019",
+        "MAT_P4FUNCOE_4FX_DAX_019_solution",
+        "MAT_P4FUNCOE_4FX_DAX_021",
+        "MAT_P4FUNCOE_4FX_DAX_022",
+        "MAT_P4FUNCOE_4FX_DAX_023",
+        "MAT_P4FUNCOE_4FX_DAX_023_solution",
+        "MAT_P4FUNCOE_4FX_DAX_025",
+        "MAT_P4FUNCOE_FUNC_DA_001.agentfix",
+        "MAT_P4FUNCOE_FUNC_DA_001.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_FUNC_DA_001",
+        "MAT_P4FUNCOE_FUNC_DA_002.agentfix",
+        "MAT_P4FUNCOE_FUNC_DA_002.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_FUNC_DA_002",
+        "MAT_P4FUNCOE_FUNC_DA_003.agentfix",
+        "MAT_P4FUNCOE_FUNC_DA_003.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_FUNC_DA_003"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica_plus_grafica\\metadata.json",
+      "added_exercises": [
+        "MAT_P4FUNCOE_4FIN_ANA_001.agentfix",
+        "MAT_P4FUNCOE_4FIN_ANA_001.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_4FIN_ANA_001",
+        "MAT_P4FUNCOE_4FIN_ANA_002.agentfix",
+        "MAT_P4FUNCOE_4FIN_ANA_002.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_4FIN_ANA_002",
+        "MAT_P4FUNCOE_4FIN_ANA_003.agentfix",
+        "MAT_P4FUNCOE_4FIN_ANA_003.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_4FIN_ANA_003",
+        "MAT_P4FUNCOE_4FIN_ANA_004.agentfix",
+        "MAT_P4FUNCOE_4FIN_ANA_004.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_4FIN_ANA_004",
+        "MAT_P4FUNCOE_4FIN_ANA_005.agentfix",
+        "MAT_P4FUNCOE_4FIN_ANA_005.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_4FIN_ANA_005",
+        "MAT_P4FUNCOE_4FIN_ANA_006.agentfix",
+        "MAT_P4FUNCOE_4FIN_ANA_006.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_4FIN_ANA_006"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_grafica\\metadata.json",
+      "added_exercises": [
+        "MAT_P4FUNCOE_4FIN_GRA_001.agentfix",
+        "MAT_P4FUNCOE_4FIN_GRA_001.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_4FIN_GRA_001",
+        "MAT_P4FUNCOE_4FIN_GRA_002.agentfix",
+        "MAT_P4FUNCOE_4FIN_GRA_002.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_4FIN_GRA_002",
+        "MAT_P4FUNCOE_4FIN_GRA_003.agentfix",
+        "MAT_P4FUNCOE_4FIN_GRA_003.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_4FIN_GRA_003",
+        "MAT_P4FUNCOE_4FIN_GRA_004.agentfix",
+        "MAT_P4FUNCOE_4FIN_GRA_004.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_4FIN_GRA_004",
+        "MAT_P4FUNCOE_4FIN_GRA_005.agentfix",
+        "MAT_P4FUNCOE_4FIN_GRA_005.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_4FIN_GRA_005",
+        "MAT_P4FUNCOE_4FX_DGX_001"
+      ]
+    },
+    {
+      "metadata_file": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\teste_reta_horizontal\\metadata.json",
+      "added_exercises": [
+        "MAT_P4FUNCOE_4FIN_TRH_001.agentfix",
+        "MAT_P4FUNCOE_4FIN_TRH_001.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_4FIN_TRH_001",
+        "MAT_P4FUNCOE_4FIN_TRH_002.agentfix",
+        "MAT_P4FUNCOE_4FIN_TRH_002.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_4FIN_TRH_002",
+        "MAT_P4FUNCOE_4FIN_TRH_003.agentfix",
+        "MAT_P4FUNCOE_4FIN_TRH_003.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_4FIN_TRH_003",
+        "MAT_P4FUNCOE_4FIN_TRH_004.agentfix",
+        "MAT_P4FUNCOE_4FIN_TRH_004.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_4FIN_TRH_004",
+        "MAT_P4FUNCOE_4FIN_TRH_005.agentfix",
+        "MAT_P4FUNCOE_4FIN_TRH_005.bak_agent_20251127T121826Z",
+        "MAT_P4FUNCOE_4FIN_TRH_005",
+        "MAT_P4FUNCOE_4FX_TRH_006"
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\1-generalidades_funcoes",
+      "file": "sebenta_1-generalidades_funcoes.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\1-generalidades_funcoes",
+      "file": "sebenta_1-generalidades_funcoes.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\2-funcoes_polinomiais",
+      "file": "sebenta_2-funcoes_polinomiais.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\2-funcoes_polinomiais",
+      "file": "sebenta_2-funcoes_polinomiais.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\2-funcoes_polinomiais",
+      "file": "sebenta_2-funcoes_polinomiais.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\3-funcoes_polinomiais_grau_nao_superior_3",
+      "file": "sebenta_3-funcoes_polinomiais_grau_nao_superior_3.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\3-funcoes_polinomiais_grau_nao_superior_3",
+      "file": "sebenta_3-funcoes_polinomiais_grau_nao_superior_3.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa",
+      "file": "main.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa",
+      "file": "subvariant_1.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa",
+      "file": "subvariant_10.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa",
+      "file": "subvariant_11.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa",
+      "file": "subvariant_2.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa",
+      "file": "subvariant_3.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa",
+      "file": "subvariant_4.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa",
+      "file": "subvariant_5.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa",
+      "file": "subvariant_6.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa",
+      "file": "subvariant_7.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa",
+      "file": "subvariant_8.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa",
+      "file": "subvariant_9.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa",
+      "file": "subvariant_1.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa",
+      "file": "subvariant_2.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa",
+      "file": "subvariant_3.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa",
+      "file": "main.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa",
+      "file": "subvariant_1.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa",
+      "file": "subvariant_2.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa",
+      "file": "subvariant_3.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "main.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_1.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_10.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_11.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_2.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_3.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_4.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_5.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_6.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_7.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_8.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_9.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_1.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_2.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_3.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "main.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_1.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_2.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_3.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "main.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_1.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_10.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_11.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_2.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_3.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_4.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_5.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_6.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_7.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_8.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_9.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_1.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_2.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_3.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "main.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_1.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_2.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica",
+      "file": "subvariant_3.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_4FIN_ANA_001",
+      "file": "main.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_4FIN_ANA_001",
+      "file": "subvariant_1.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_4FIN_ANA_001",
+      "file": "subvariant_10.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_4FIN_ANA_001",
+      "file": "subvariant_11.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_4FIN_ANA_001",
+      "file": "subvariant_2.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_4FIN_ANA_001",
+      "file": "subvariant_3.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_4FIN_ANA_001",
+      "file": "subvariant_4.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_4FIN_ANA_001",
+      "file": "subvariant_5.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_4FIN_ANA_001",
+      "file": "subvariant_6.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_4FIN_ANA_001",
+      "file": "subvariant_7.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_4FIN_ANA_001",
+      "file": "subvariant_8.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_4FIN_ANA_001",
+      "file": "subvariant_9.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_4FIN_ANA_002",
+      "file": "subvariant_1.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_4FIN_ANA_002",
+      "file": "subvariant_2.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_4FIN_ANA_002",
+      "file": "subvariant_3.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_4FX_DAX_003",
+      "file": "main.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_4FX_DAX_003",
+      "file": "subvariant_1.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_4FX_DAX_003",
+      "file": "subvariant_2.tex",
+      "reason": "filename-not-id-like"
+    },
+    {
+      "folder": "C:\\Users\\diogo\\projects\\To_Exercises\\ExerciseDatabase\\matematica\\P4_funcoes\\4-funcao_inversa\\determinacao_analitica\\MAT_P4FUNCOE_4FX_DAX_003",
+      "file": "subvariant_3.tex",
+      "reason": "filename-not-id-like"
+    }
+  ]
+}

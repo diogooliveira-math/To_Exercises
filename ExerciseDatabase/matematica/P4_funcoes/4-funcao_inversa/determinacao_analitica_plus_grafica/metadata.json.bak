@@ -1,0 +1,26 @@
+{
+  "tipo": "determinacao_analitica",
+  "tipo_nome": "Determinação Analítica da Função Inversa com confirmação gráfica",
+  "conceito": "4-funcao_inversa",
+  "conceito_nome": "Função Inversa",
+  "tema": "P4_funcoes",
+  "tema_nome": "MÓDULO P4 - Funções",
+  "disciplina": "matematica",
+  "descricao": "Exercícios focados no cálculo da expressão analítica da função inversa através de manipulação algébrica. Posteriormente, é solicitada a confirmação gráfica da função inversa encontrada.",
+  "tags_tipo": [
+    "calculo_analitico",
+    "expressao_analitica",
+    "algebra",
+    "resolucao_equacao"
+  ],
+  "caracteristicas": {
+    "requer_calculo": true,
+    "requer_grafico": false,
+    "complexidade_algebrica": "media"
+  },
+  "dificuldade_sugerida": {
+    "min": 2,
+    "max": 4
+  },
+  "exercicios": []
+}
