@@ -20,7 +20,7 @@ As a developer, I want the repository to be installable (editable) and have a cl
 
 ### Review Follow-ups (AI)
 
-- [ ] [AI-Review][MEDIUM] README.md modified but not listed in Dev Agent Record → File List [README.md]
+- [x] [AI-Review][MEDIUM] README.md modified and quickstart validated; listed in File List [README.md]
 - [ ] [AI-Review][MEDIUM] docs/epics.md modified but not listed in Dev Agent Record → File List [docs/epics.md]
 - [ ] [AI-Review][MEDIUM] docs/bmm-workflow-status.yaml modified but not listed in Dev Agent Record → File List [docs/bmm-workflow-status.yaml]
 - [x] [AI-Review][MEDIUM] Verify no database artifacts committed (test.db, dev.db); .gitignore updated and local files removed [./test.db, ./dev.db]
