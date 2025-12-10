@@ -68,6 +68,7 @@ As a developer, I want the repository to be installable (editable) and have a cl
 - pyproject.toml
 - README.md
 - docs/epics.md
+- docs/bmm-workflow-status.yaml
 - tests/test_packaging.py
 - tests/test_pyproject.py
 - tests/test_readme_quickstart.py
