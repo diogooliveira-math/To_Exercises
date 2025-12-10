@@ -7,6 +7,8 @@ name = "to_exercises"
 version = "0.0.0"
 description = "To_Exercises service"
 authors = [{name = "Diogo"}]
+readme = "README.md"
+# Packaging configuration to support editable installs and src layout
 dependencies = [
   "fastapi",
   "uvicorn[standard]",
@@ -15,3 +17,6 @@ dependencies = [
   "httpx",
 ]
 optional-dependencies = { dev = ["pytest", "pytest-asyncio", "httpx"] }
+
+[tool.setuptools.packages.find]
+where = ["src"]

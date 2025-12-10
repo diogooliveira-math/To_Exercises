@@ -1,4 +1,8 @@
 to_exercises.db
+.dev.db
+.test.db
+test.db
+dev.db
 .venv
 __pycache__
 *.pyc
