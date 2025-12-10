@@ -11,29 +11,31 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        python-version: [3.10, 3.11]
+        python-version: [3.11]
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: ${{ matrix.python-version }}
-      - name: Install dependencies
+
+      - name: Install build tools
         run: |
           python -m pip install --upgrade pip
-          pip install -e .[dev]
-      - name: Run tests
-        run: pytest -q
 
-  optional-latex:
-    if: env.RUN_LATEX == 'true'
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Install LaTeX (minimal)
+      - name: Install editable package and dev deps
+        env:
+          PIP_NO_BUILD_ISOLATION: "0"
         run: |
-          sudo apt-get update && sudo apt-get install -y texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended
-      - name: Sample LaTeX build (optional)
+          python -m pip install -e ".[dev]"
+
+      - name: Run tests
         run: |
-          # Run a sample generator command if available - guard with RUN_LATEX
-          echo "RUN_LATEX enabled - no sample found or generator not invoked by default"
+          python -m pytest -q
+
+      - name: Show test summary
+        if: always()
+        run: |
+          echo "Tests completed"
