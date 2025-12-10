@@ -15,8 +15,8 @@ As a developer, I want the repository to be installable (editable) and have a cl
 
 - [x] Add src layout and __init__.py for package discovery
 - [x] Update pyproject.toml to support editable install
-- [ ] Document Windows and Unix quickstart commands in README
-- [ ] Add CI job step to install editable package and run tests
+- [x] Document Windows and Unix quickstart commands in README
+- [x] Add CI job step to install editable package and run tests
 
 ### Review Follow-ups (AI)
 
