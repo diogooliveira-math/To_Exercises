@@ -18,6 +18,15 @@ As a developer, I want the repository to be installable (editable) and have a cl
 - [ ] Document Windows and Unix quickstart commands in README
 - [ ] Add CI job step to install editable package and run tests
 
+### Review Follow-ups (AI)
+
+- [ ] [AI-Review][MEDIUM] README.md modified but not listed in Dev Agent Record → File List [README.md]
+- [ ] [AI-Review][MEDIUM] docs/epics.md modified but not listed in Dev Agent Record → File List [docs/epics.md]
+- [ ] [AI-Review][MEDIUM] docs/bmm-workflow-status.yaml modified but not listed in Dev Agent Record → File List [docs/bmm-workflow-status.yaml]
+- [ ] [AI-Review][MEDIUM] Verify no database artifacts committed (test.db, dev.db); .gitignore updated but confirm removal if present [./test.db, ./dev.db]
+- [ ] [AI-Review][LOW] Migrate FastAPI startup event to lifespan handler to address deprecation warning [src/to_exercises/main.py]
+- [ ] [AI-Review][LOW] Ensure CI workflow includes editable install and pytest run; create .github/workflows/ci.yml if missing
+
 ## Dev Notes
 
 - Ensure src/to_exercises/__init__.py exists
@@ -57,6 +66,9 @@ As a developer, I want the repository to be installable (editable) and have a cl
 
 - src/
 - pyproject.toml
+- README.md
 - tests/test_packaging.py
+- tests/test_pyproject.py
+- tests/test_readme_quickstart.py
 - tests/conftest.py
 - docs/sprint-artifacts/sprint-status.yaml (updated status)
