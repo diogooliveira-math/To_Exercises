@@ -26,10 +26,6 @@ def create_exercise(payload: Exercise, session: Session = Depends(get_session)):
         return Exercise.model_validate(ex)
     except AttributeError:
         # Fallback for older SQLModel versions
-    # Use model_validate per SQLModel >=0.0.14 deprecation guidance
-    try:
-        return Exercise.model_validate(ex)
-    except AttributeError:
         return Exercise.from_orm(ex)
 
 @router.get("/{exercise_id}", response_model=Exercise)
@@ -37,7 +33,11 @@ def read_exercise(exercise_id: int, session: Session = Depends(get_session)):
     ex = crud.get_exercise(session, exercise_id)
     if not ex:
         raise HTTPException(status_code=404, detail="not found")
-    return Exercise.from_orm(ex)
+    # Use model_validate per SQLModel >=0.0.14 deprecation guidance
+    try:
+        return Exercise.model_validate(ex)
+    except AttributeError:
+        return Exercise.from_orm(ex)
 
 @router.get("/", response_model=List[Exercise])
 def list_exercises(limit: int = 50, offset: int = 0, session: Session = Depends(get_session)):
