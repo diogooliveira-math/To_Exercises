@@ -17,32 +17,70 @@ def list_exercises(session: Session, limit: int = 50, offset: int = 0) -> List[E
     results = list(session.exec(stmt))
     return results
 
+from sqlalchemy.exc import IntegrityError
+
+
 def upsert_by_checksum(session: Session, *, checksum: str, checksum_algorithm: str = "sha256", **fields) -> Exercise:
-    stmt = select(Exercise).where(Exercise.checksum == checksum, Exercise.checksum_algorithm == checksum_algorithm)
-    existing = session.exec(stmt).first()
+    """Upsert an Exercise by checksum with transactional semantics.
+
+    Behavior:
+    - If an existing Exercise with the same checksum+algorithm exists: update fields and append history row if file_path changed.
+    - If none exists: create Exercise and initial history row.
+
+    All operations are performed within a single transactional unit so outer transaction rollbacks will undo changes.
+    IntegrityError from unique constraint violations will be propagated to the caller.
+    """
     now = datetime.utcnow()
-    if existing:
-        # Update fields
-        for k, v in fields.items():
-            if hasattr(existing, k):
-                setattr(existing, k, v)
-        existing.updated_at = now
-        session.add(existing)
-        session.commit()
-        # append history if file_path changed
-        if "file_path" in fields and fields["file_path"] != existing.file_path:
-            history = ExerciseChecksumHistory(exercise_id=existing.id, checksum=checksum, file_path=fields.get("file_path", existing.file_path))
-            session.add(history)
-            session.commit()
-        session.refresh(existing)
-        return existing
-    else:
-        ex = Exercise(checksum=checksum, checksum_algorithm=checksum_algorithm, **fields, created_at=now, updated_at=now)
-        session.add(ex)
-        session.commit()
-        session.refresh(ex)
-        # create history entry
-        history = ExerciseChecksumHistory(exercise_id=ex.id, checksum=checksum, file_path=ex.file_path)
-        session.add(history)
-        session.commit()
-        return ex
+    try:
+        # If caller already has an open transaction, avoid starting a new one (nested begin not allowed by default).
+        if session.in_transaction():
+            stmt = select(Exercise).where(Exercise.checksum == checksum, Exercise.checksum_algorithm == checksum_algorithm)
+            existing = session.exec(stmt).first()
+            if existing:
+                for k, v in fields.items():
+                    if hasattr(existing, k):
+                        setattr(existing, k, v)
+                existing.updated_at = now
+                session.add(existing)
+                if "file_path" in fields and fields["file_path"] != existing.file_path:
+                    history = ExerciseChecksumHistory(exercise_id=existing.id, checksum=checksum, file_path=fields.get("file_path", existing.file_path))
+                    session.add(history)
+                session.flush()
+                session.refresh(existing)
+                return existing
+            else:
+                ex = Exercise(checksum=checksum, checksum_algorithm=checksum_algorithm, **fields, created_at=now, updated_at=now)
+                session.add(ex)
+                session.flush()
+                history = ExerciseChecksumHistory(exercise_id=ex.id, checksum=checksum, file_path=ex.file_path)
+                session.add(history)
+                session.flush()
+                session.refresh(ex)
+                return ex
+        else:
+            with session.begin():
+                stmt = select(Exercise).where(Exercise.checksum == checksum, Exercise.checksum_algorithm == checksum_algorithm)
+                existing = session.exec(stmt).first()
+                if existing:
+                    for k, v in fields.items():
+                        if hasattr(existing, k):
+                            setattr(existing, k, v)
+                    existing.updated_at = now
+                    session.add(existing)
+                    if "file_path" in fields and fields["file_path"] != existing.file_path:
+                        history = ExerciseChecksumHistory(exercise_id=existing.id, checksum=checksum, file_path=fields.get("file_path", existing.file_path))
+                        session.add(history)
+                    session.flush()
+                    session.refresh(existing)
+                    return existing
+                else:
+                    ex = Exercise(checksum=checksum, checksum_algorithm=checksum_algorithm, **fields, created_at=now, updated_at=now)
+                    session.add(ex)
+                    session.flush()
+                    history = ExerciseChecksumHistory(exercise_id=ex.id, checksum=checksum, file_path=ex.file_path)
+                    session.add(history)
+                    session.flush()
+                    session.refresh(ex)
+                    return ex
+    except IntegrityError:
+        raise
