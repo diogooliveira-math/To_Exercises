@@ -1,6 +1,6 @@
 # Story 1.1: Project packaging & dev quickstart
 
-Status: in-progress
+Status: Ready for Review
 
 ## Story
 
@@ -21,10 +21,10 @@ As a developer, I want the repository to be installable (editable) and have a cl
 ### Review Follow-ups (AI)
 
 - [x] [AI-Review][MEDIUM] README.md modified and quickstart validated; listed in File List [README.md]
-- [ ] [AI-Review][MEDIUM] docs/epics.md modified but not listed in Dev Agent Record → File List [docs/epics.md]
-- [ ] [AI-Review][MEDIUM] docs/bmm-workflow-status.yaml modified but not listed in Dev Agent Record → File List [docs/bmm-workflow-status.yaml]
+- [x] [AI-Review][MEDIUM] docs/epics.md modified but not listed in Dev Agent Record → File List [docs/epics.md]
+- [x] [AI-Review][MEDIUM] docs/bmm-workflow-status.yaml modified but not listed in Dev Agent Record → File List [docs/bmm-workflow-status.yaml]
 - [x] [AI-Review][MEDIUM] Verify no database artifacts committed (test.db, dev.db); .gitignore updated and local files removed [./test.db, ./dev.db]
-- [ ] [AI-Review][LOW] Migrate FastAPI startup event to lifespan handler to address deprecation warning [src/to_exercises/main.py]
+- [x] [AI-Review][LOW] Migrate FastAPI startup event to lifespan handler to address deprecation warning [src/to_exercises/main.py]
 - [x] [AI-Review][LOW] Ensure CI workflow includes editable install and pytest run; created .github/workflows/ci.yml
 
 ## Dev Notes
@@ -61,6 +61,8 @@ As a developer, I want the repository to be installable (editable) and have a cl
 - Added tests fixture and test DB overrides in tests/conftest.py
 - Ensured DB models are imported so metadata creates tables for tests
 - Ran full test suite; all tests pass locally after fixes
+- ✅ Resolved review finding [MEDIUM]: docs/epics.md added to File List
+- ✅ Resolved review finding [LOW]: migrated startup event to lifespan handler in src/to_exercises/main.py
 
 ### File List
 
@@ -74,3 +76,4 @@ As a developer, I want the repository to be installable (editable) and have a cl
 - tests/test_readme_quickstart.py
 - tests/conftest.py
 - docs/sprint-artifacts/sprint-status.yaml (updated status)
+- docs/bmm-workflow-status.yaml

@@ -141,3 +141,11 @@ sm-agent-v1
 - README.md
 - src/to_exercises/__init__.py
 - tests/test_packaging.py
+
+## Review Follow-ups (AI)
+
+- [ ] [AI-Review][HIGH] Ensure package exposes an entry point (add __main__.py or export main) so tests/test_packaging.py passes [src/to_exercises/__init__.py:1-5]
+- [ ] [AI-Review][MEDIUM] Update Dev Agent Record File List to include src/to_exercises/api/v1/exercises.py (git-modified file) [src/to_exercises/api/v1/exercises.py]
+- [ ] [AI-Review][MEDIUM] Add 'requires-python = ">=3.11"' to pyproject.toml or make tests tolerant to older Python versions [pyproject.toml]
+- [ ] [AI-Review][LOW] Refactor src/to_exercises/api/v1/exercises.py to use getattr(payload, "tags_json", None) or payload.dict(exclude_unset=True) instead of hasattr checks [src/to_exercises/api/v1/exercises.py:10-16]
+- [ ] [AI-Review][LOW] Confirm CI editable install verification is adequate and update verification task status accordingly [.github/workflows/ci.yml]
