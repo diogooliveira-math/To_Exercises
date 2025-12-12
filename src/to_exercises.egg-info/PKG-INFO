@@ -1,3 +1,19 @@
+Metadata-Version: 2.4
+Name: to_exercises
+Version: 0.0.0
+Summary: To_Exercises service
+Author: Diogo
+Description-Content-Type: text/markdown
+Requires-Dist: fastapi
+Requires-Dist: uvicorn[standard]
+Requires-Dist: sqlmodel
+Requires-Dist: typer
+Requires-Dist: httpx
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: pytest-asyncio; extra == "dev"
+Requires-Dist: httpx; extra == "dev"
+
 # To_Exercises — Developer Quickstart
 
 This repository contains the MVP architecture and starter scaffolding for To_Exercises: a small service to import canonical LaTeX exercise files, store metadata, and generate PDFs.

@@ -1,15 +1,15 @@
-# generated: 2025-12-09
+# generated: 2025-12-10
 # project: To_Exercises
 # project_key: 
 # tracking_system: file-system
-# story_location: C:\Users\diogo\projects\To_Exercises\docs\sprint-artifacts
+# story_location: {project-root}/docs/sprint-artifacts
 
 # STATUS DEFINITIONS:
 # ==================
 # Epic Status:
 #   - backlog: Epic exists in epic file but not contexted
 #   - contexted: Epic tech context created
-#   - in-progress: Epic is actively being worked
+# #   - in-progress: Epic is actively being worked
 #   - done: Epic completed
 #
 # Story Status:
@@ -24,23 +24,23 @@
 #   - optional: Can be completed but not required
 #   - completed: Retrospective has been done
 
-generated: 2025-12-09
+generated: 2025-12-10
 project: To_Exercises
 project_key: 
 tracking_system: file-system
-story_location: C:\Users\diogo\projects\To_Exercises\docs\sprint-artifacts
+story_location: {project-root}/docs/sprint-artifacts
 
 development_status:
   epic-1: backlog
-  1-1-project-packaging-dev-quickstart: review
-  1-2-db-schema-checksum-uniqueness: backlog
+  1-1-project-packaging-dev-quickstart: {status: in-progress, owner: Diogo, sprint: 1}
+  1-2-db-schema-checksum-uniqueness: {status: in-progress, owner: Diogo, sprint: 1}
   1-3-api-scaffold-and-core-crud: backlog
   1-4-testing-fixtures-ci-and-contract-test-baseline: backlog
   epic-1-retrospective: optional
 
   epic-2: backlog
   2-1-importer-dry-run-json-report: backlog
-  2-2-importer-apply-transactional-upsert: backlog
+  2-2-importer-apply-with-transactional-upsert-and-conflict-handling: backlog
   2-3-upsert-behavior-and-checksum-history: backlog
   2-4-metadata-editor-preview-cli: backlog
   2-5-api-contract-integration-for-importer: backlog

@@ -3,6 +3,8 @@ from datetime import datetime
 from sqlmodel import SQLModel, Field, Relationship
 
 class Exercise(SQLModel, table=True):
+    __tablename__ = "exercise"
+
     id: Optional[int] = Field(default=None, primary_key=True)
     checksum: str = Field(index=True)
     checksum_algorithm: str = Field(default="sha256")
@@ -14,6 +16,8 @@ class Exercise(SQLModel, table=True):
     updated_at: datetime = Field(default_factory=datetime.utcnow)
 
 class ExerciseChecksumHistory(SQLModel, table=True):
+    __tablename__ = "exercise_checksum_history"
+
     id: Optional[int] = Field(default=None, primary_key=True)
     exercise_id: int = Field(foreign_key="exercise.id")
     checksum: str

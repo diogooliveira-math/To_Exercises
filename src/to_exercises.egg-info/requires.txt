@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+typer
+httpx
+
+[dev]
+pytest
+pytest-asyncio
+httpx
