@@ -5,6 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "to_exercises"
 version = "0.0.0"
+requires-python = ">=3.11"
 description = "To_Exercises service"
 authors = [{name = "Diogo"}]
 readme = "README.md"
