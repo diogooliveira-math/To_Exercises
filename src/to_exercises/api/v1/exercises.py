@@ -26,6 +26,10 @@ def create_exercise(payload: Exercise, session: Session = Depends(get_session)):
         return Exercise.model_validate(ex)
     except AttributeError:
         # Fallback for older SQLModel versions
+    # Use model_validate per SQLModel >=0.0.14 deprecation guidance
+    try:
+        return Exercise.model_validate(ex)
+    except AttributeError:
         return Exercise.from_orm(ex)
 
 @router.get("/{exercise_id}", response_model=Exercise)
