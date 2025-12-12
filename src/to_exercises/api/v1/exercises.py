@@ -22,9 +22,9 @@ def create_exercise(payload: Exercise, session: Session = Depends(get_session)):
     )
     # Return pydantic model for FastAPI to serialize cleanly
     # Use model_validate per SQLModel >=0.0.14 deprecation guidance
-    try:
+    if hasattr(Exercise, "model_validate"):
         return Exercise.model_validate(ex)
-    except AttributeError:
+    else:
         # Fallback for older SQLModel versions
         return Exercise.from_orm(ex)
 
@@ -34,9 +34,9 @@ def read_exercise(exercise_id: int, session: Session = Depends(get_session)):
     if not ex:
         raise HTTPException(status_code=404, detail="not found")
     # Use model_validate per SQLModel >=0.0.14 deprecation guidance
-    try:
+    if hasattr(Exercise, "model_validate"):
         return Exercise.model_validate(ex)
-    except AttributeError:
+    else:
         return Exercise.from_orm(ex)
 
 @router.get("/", response_model=List[Exercise])

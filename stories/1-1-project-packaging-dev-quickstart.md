@@ -77,3 +77,5 @@ As a developer, I want the repository to be installable (editable) and have a cl
 - tests/conftest.py
 - docs/sprint-artifacts/sprint-status.yaml (updated status)
 - docs/bmm-workflow-status.yaml
+- docs/sprint-artifacts/1-1-project-packaging-dev-quickstart.md
+- src/to_exercises/api/v1/exercises.py
