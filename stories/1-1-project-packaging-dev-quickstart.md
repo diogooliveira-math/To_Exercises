@@ -26,6 +26,9 @@ As a developer, I want the repository to be installable (editable) and have a cl
 - [x] [AI-Review][MEDIUM] Verify no database artifacts committed (test.db, dev.db); .gitignore updated and local files removed [./test.db, ./dev.db]
 - [x] [AI-Review][LOW] Migrate FastAPI startup event to lifespan handler to address deprecation warning [src/to_exercises/main.py]
 - [x] [AI-Review][LOW] Ensure CI workflow includes editable install and pytest run; created .github/workflows/ci.yml
+- [ ] [AI-Review][LOW] Decide test approach: update tests/test_packaging.py to import to_exercises.main OR expose main in package __init__ [tests/test_packaging.py, src/to_exercises/__init__.py]
+- [ ] [AI-Review][LOW] Add Change Log entry summarizing model_validate change and File List updates (story: stories/1-1-project-packaging-dev-quickstart.md)
+- [ ] [AI-Review][MEDIUM] Reviewer: validate story File List completeness and Acceptance Criteria satisfaction [stories/1-1-project-packaging-dev-quickstart.md]
 
 ## Dev Notes
 
