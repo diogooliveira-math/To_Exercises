@@ -1,9 +1,13 @@
 from typing import Optional
 from datetime import datetime
 from sqlmodel import SQLModel, Field, Relationship
+from sqlalchemy import UniqueConstraint
 
 class Exercise(SQLModel, table=True):
     __tablename__ = "exercise"
+    __table_args__ = (
+        UniqueConstraint('checksum', 'checksum_algorithm', name='uq_exercise_checksum_algorithm'),
+    )
 
     id: Optional[int] = Field(default=None, primary_key=True)
     checksum: str = Field(index=True)
