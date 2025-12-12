@@ -1,6 +1,6 @@
 # Story 1.2: DB schema & checksum uniqueness
 
-Status: ready-for-dev
+Status: Ready for Review
 
 ## Story
 

@@ -33,7 +33,7 @@ story_location: {project-root}/docs/sprint-artifacts
 development_status:
   epic-1: backlog
   1-1-project-packaging-dev-quickstart: {status: review, owner: Diogo, sprint: 1}
-  1-2-db-schema-checksum-uniqueness: {status: in-progress, owner: Diogo, sprint: 1}
+  1-2-db-schema-checksum-uniqueness: {status: review, owner: Diogo, sprint: 1}
   1-3-api-scaffold-and-core-crud: backlog
   1-4-testing-fixtures-ci-and-contract-test-baseline: backlog
   epic-1-retrospective: optional
