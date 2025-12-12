@@ -1,14 +1,14 @@
 ---
 story_key: 1-3-api-scaffold-and-core-crud
 story_id: 1.3
-status: ready-for-dev
+status: done
 owner: Diogo
 sprint: 1
 ---
 
 # Story 1.3: API scaffold and core CRUD
 
-Status: ready-for-dev
+Status: done
 
 ## Story
 
