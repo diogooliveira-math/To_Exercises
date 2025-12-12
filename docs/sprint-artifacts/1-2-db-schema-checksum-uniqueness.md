@@ -14,14 +14,15 @@ As a maintainer, I want a DB model with a unique checksum index and exercise_che
 ## Tasks / Subtasks
 
 - [x] Implement SQLModel models: Exercise, ExerciseChecksumHistory (AC: 1)
-  - [ ] Add unique index on (checksum, checksum_algorithm)
-  - [ ] Create migration to add exercise_checksum_history table
-- [ ] Implement DB upsert logic for apply (AC: 2)
-  - [ ] On checksum match and different file_path → update existing record and append history row
-  - [ ] Ensure transactional semantics and tests for rollback on error
-- [ ] Add tests and fixtures (in-memory SQLite) to validate schema and upsert behavior
-  - [ ] Unit tests for model definitions and index existence
-  - [ ] Integration test for apply flow that appends to history
+  - [x] Add unique index on (checksum, checksum_algorithm)
+  - [x] Create migration to add exercise_checksum_history table
+- [x] Implement DB upsert logic for apply (AC: 2)
+  - [x] On checksum match and different file_path → update existing record and append history row
+  - [x] Ensure transactional semantics and tests for rollback on error
+- [x] Add tests and fixtures (in-memory SQLite) to validate schema and upsert behavior
+  - [x] Unit tests for model definitions and index existence
+  - [x] Integration test for apply flow that appends to history
+
 
 ## Dev Notes
 
@@ -68,9 +69,20 @@ Amelia (dev agent)
 ### Completion Notes List
 
 - ✅ Ultimate context engine analysis completed - comprehensive developer guide created
+- ✅ Implemented SQLModel models and composite unique index
+- ✅ Implemented transactional upsert logic with history append
+- ✅ Added unit and integration tests; all tests passing locally (11/11)
 
 ### File List
 
+- src/to_exercises/models.py
+- src/to_exercises/crud.py
+- src/to_exercises/database.py
+- src/to_exercises/db_migrations/0001_create_exercise_tables.sql
+- tests/test_db_schema.py
+- tests/test_apply_upsert.py
+- tests/test_apply_upsert_transactional.py
+- tests/test_api.py
 - docs/sprint-artifacts/1-2-db-schema-checksum-uniqueness.md
 - docs/sprint-artifacts/sprint-status.yaml
 
