@@ -21,7 +21,17 @@ def create_exercise(payload: Exercise, session: Session = Depends(get_session)):
         metadata_json=getattr(payload, "metadata_json", None),
     )
     # Return pydantic model for FastAPI to serialize cleanly
-    return Exercise.from_orm(ex)
+    # Use model_validate per SQLModel >=0.0.14 deprecation guidance
+    try:
+        return Exercise.model_validate(ex)
+    except AttributeError:
+        # Fallback for older SQLModel versions
+    # Use model_validate per SQLModel >=0.0.14 deprecation guidance
+    try:
+        return Exercise.model_validate(ex)
+    except AttributeError:
+        # Fallback for older SQLModel versions
+        return Exercise.from_orm(ex)
 
 @router.get("/{exercise_id}", response_model=Exercise)
 def read_exercise(exercise_id: int, session: Session = Depends(get_session)):
